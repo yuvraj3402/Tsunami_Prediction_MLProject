@@ -1,7 +1,6 @@
 from collections import namedtuple
 
-DataIngestionConfig=namedtuple("DataIngestionConfig",["dataset",
-                                                      "ingested_train_dir",
+DataIngestionConfig=namedtuple("DataIngestionConfig",["dataset_path","ingested_train_dir",
                                                       "ingested_test_dir"])
 
 

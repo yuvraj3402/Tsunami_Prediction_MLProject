@@ -1,12 +1,12 @@
 training_pipeline_config:
-  pipeline_name: Tsunami
+  pipeline_name: tsunami
   artifact_dir: artifact
 
 
 
 data_ingestion_config:
-  dataset: Tsunami_dataset\tsunami_dataset.csv
-  ingested_dir: ingested_data
+  dataset_dir: tsunami_dataset
+  dataset_name: tsunami_dataset.csv
   ingested_train_dir: train
   ingested_test_dir: test 
 

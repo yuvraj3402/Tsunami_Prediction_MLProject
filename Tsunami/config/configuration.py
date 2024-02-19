@@ -1,0 +1,64 @@
+from tsunami.exception import ProjectException
+from tsunami.logger import logging
+from tsunami.constants import *
+import os,sys
+from tsunami.utils import read_yaml_file
+from tsunami.entity.config_entity import TrainingPipelineConfig,DataIngestionConfig
+
+class configuration:
+
+    def __init__(self,config_file_path=CONFIG_FILE_PATH,current_time_stamp=CURRENT_TIME_STAMP):
+        try:
+            self.config=read_yaml_file(file_path=config_file_path)
+            self.artifact_dir=self.get_pipeline_config()
+            self.current_time_stamp=current_time_stamp
+        except Exception as e:
+            raise ProjectException(e,sys) from e
+        
+
+        
+
+    def get_data_ingestion_config(self)->DataIngestionConfig:
+        try:
+            data_ingestion_info=self.config[DATA_INGESTION_CONFIG_KEY]
+
+            artifact_dir=self.artifact_dir.artifact_dir
+
+            data_ingestion_dir=os.path.join(artifact_dir,
+                                      DATA_INGESTION_DIR_KEY,
+                                      self.current_time_stamp)
+
+            dataset_path=os.path.join(ROOT_DIR,
+                                      data_ingestion_info[DATASET_DIR_KEY],
+                                      data_ingestion_info[DATASET_NAME_KEY])
+            
+            ingested_train_dir=os.path.join(data_ingestion_dir,
+                                            data_ingestion_info[INGESTED_TRAIN_DIR_KEY])
+            
+            ingested_test_dir=os.path.join(data_ingestion_dir,
+                                            data_ingestion_info[INGESTED_TEST_DIR_KEY])
+
+            data_ingestion_config=DataIngestionConfig(dataset_path=dataset_path,
+                                                      ingested_train_dir=ingested_train_dir,
+                                                      ingested_test_dir=ingested_test_dir)
+            
+            return data_ingestion_config
+        except Exception as e:
+            raise ProjectException(e,sys) from e
+
+
+
+
+
+    def get_pipeline_config(self)->TrainingPipelineConfig:
+        try:
+            pipeline_info=self.config[TRAINING_PIPELINE_CONFIG_KEY]
+
+            pipeline_name=pipeline_info[PIPELINE_NAME_KEY]
+            artifact_dir_name=pipeline_info[ARTIFACT_DIR_KEY]
+            artifact_dir=os.path.join(ROOT_DIR,pipeline_name,artifact_dir_name)
+            training_pipeline_config=TrainingPipelineConfig(artifact_dir=artifact_dir)
+
+            return training_pipeline_config
+        except Exception as e:
+            raise ProjectException(e,sys) from e
