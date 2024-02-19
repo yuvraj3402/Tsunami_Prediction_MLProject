@@ -1,0 +1,67 @@
+columns:
+ ID: int64
+ YEAR: int64
+ MONTH: float64
+ DAY: float64
+ HOUR: float64
+ MINUTE: float64
+ LATITUDE: float64
+ LONGITUDE: float64
+ LOCATION_NAME: object
+ COUNTRY: object
+ REGION: object
+ CAUSE: object
+ EVENT_VALIDITY: object
+ EQ_MAGNITUDE: float64
+ EQ_DEPTH: float64
+ TS_INTENSITY: float64
+ DAMAGE_TOTAL_DESCRIPTION: object
+ HOUSES_TOTAL_DESCRIPTION: object
+ DEATHS_TOTAL_DESCRIPTION: object
+ URL: object
+ COMMENTS: object
+
+
+numerical_columns:
+ - ID
+ - YEAR
+ - MONTH
+ - DAY
+ - HOUR
+ - MINUTE
+ - LATITUDE
+ - LONGITUDE
+ - EQ_MAGNITUDE
+ - EQ_DEPTH
+ - TS_INTENSITY
+
+
+categorical_columns:
+  - LOCATION_NAME
+  - COUNTRY
+  - REGION
+  - CAUSE
+  - EVENT_VALIDITY
+  - DAMAGE_TOTAL_DESCRIPTION
+  - HOUSES_TOTAL_DESCRIPTION
+  - DEATHS_TOTAL_DESCRIPTION
+  - URL
+  - COMMENTS
+
+drop_features:
+  - ID
+  - YEAR
+  - DAY
+  - HOUR
+  - LOCATION_NAME
+  - MINUTE
+  - LATITUDE
+  - LONGITUDE
+  - DAMAGE_TOTAL_DESCRIPTION
+  - HOUSES_TOTAL_DESCRIPTION
+  - DEATHS_TOTAL_DESCRIPTION
+  - URL
+  - COMMENTS
+
+target_column: median_house_value
+

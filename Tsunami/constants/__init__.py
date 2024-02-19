@@ -26,3 +26,10 @@ DATASET_DIR_KEY = "dataset_dir"
 DATASET_NAME_KEY="dataset_name"
 INGESTED_TRAIN_DIR_KEY = "ingested_train_dir"
 INGESTED_TEST_DIR_KEY = "ingested_test_dir"
+
+
+
+#data validation constants
+DATA_VALIDATION_CONFIG_KEY="data_validation_config"
+SCHEMA_DIR_KEY="schema_dir"
+SCHEMA_FILE_NAME_KEY="schema_file_name"
