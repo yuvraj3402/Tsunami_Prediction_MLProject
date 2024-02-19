@@ -1,0 +1,9 @@
+Flask
+gunicorn
+numpy
+six
+pandas
+pyYAML
+scikit-learn
+dill
+matplotlib
