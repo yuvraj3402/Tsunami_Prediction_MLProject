@@ -33,3 +33,32 @@ INGESTED_TEST_DIR_KEY = "ingested_test_dir"
 DATA_VALIDATION_CONFIG_KEY="data_validation_config"
 SCHEMA_DIR_KEY="schema_dir"
 SCHEMA_FILE_NAME_KEY="schema_file_name"
+
+
+#data transformation constants
+DATA_TRANSFORMATION_CONFIG_KEY="data_transformation_config"
+DATA_TRANSFORMATION_DIR="data_transformation"
+TRANSFORMED_DIR_KEY="transformed_dir"
+TRANSFORMED_TRAIN_DIR_KEY="transformed_train_dir"
+TARGET_FEATURE_DIR_KEY="target_feature_dir"
+PREPROCESSING_DIR_KEY="preprocessing_dir"
+PREPROCESSED_OBJECT_FILE_NAME_KEY="preprocessed_object_file_name"
+
+
+#schema file constants
+COLUMNS_KEY="columns"
+NUMERICAL_COLUMNS_KEY="numerical_columns"
+CATEGORICAL_COLUMNS_KEY="categorical_columns"
+DROP_FEATURES_KEY="drop_features"
+TARGET_COLUMN_KEY="target_column"
+UPDATED_CATEGORICAL_COLUMNS_KEY="updated_categorical_columns"
+UPDATED_NUMERICAL_COLUMNS_KEY="updated_numerical_columns"
+
+
+#columns to transform
+CAUSE_COLUMN_CONSTANT="CAUSE"
+UNKNOWN_DROP_CONSTANT="Unknown"
+EXPLOSION_DROP_CONSTANT="Explosion"
+MONTH_COLUMN_CONSTANT="MONTH"
+VOLCANO_DROP_CONSTANT="Volcano"
+

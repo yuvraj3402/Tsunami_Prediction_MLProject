@@ -3,7 +3,7 @@ from tsunami.logger import logging
 from tsunami.constants import *
 import os,sys
 from tsunami.utils import read_yaml_file
-from tsunami.entity.config_entity import TrainingPipelineConfig,DataIngestionConfig,DataValidationConfig
+from tsunami.entity.config_entity import TrainingPipelineConfig,DataIngestionConfig,DataValidationConfig,DataTransformationConfig
 
 class configuration:
 
@@ -49,6 +49,7 @@ class configuration:
 
 
 
+
     def get_data_validation_config(self)->DataValidationConfig:
         try:
 
@@ -68,6 +69,46 @@ class configuration:
         
         except Exception as e:
             raise ProjectException(e,sys) from e
+        
+
+
+
+    
+    def get_data_transformation_config(self)->DataTransformationConfig:
+        try:
+            artifact_dir=self.pipeline_config.artifact_dir
+            
+            data_transformation_config_info=self.config[DATA_TRANSFORMATION_CONFIG_KEY]
+
+            data_transformation_dir=os.path.join(artifact_dir,
+                                                 DATA_TRANSFORMATION_DIR,
+                                                 self.current_time_stamp)
+            
+
+            transformed_train_dir=os.path.join(data_transformation_dir,
+                                               data_transformation_config_info[TRANSFORMED_DIR_KEY],
+                                               data_transformation_config_info[TRANSFORMED_TRAIN_DIR_KEY])
+            
+
+
+            target_feature_dir=os.path.join(data_transformation_dir,
+                                               data_transformation_config_info[TRANSFORMED_DIR_KEY],
+                                               data_transformation_config_info[TARGET_FEATURE_DIR_KEY])
+            
+
+            preprocessed_object_file_path=os.path.join(data_transformation_dir,
+                                                       data_transformation_config_info[PREPROCESSING_DIR_KEY],
+                                                       data_transformation_config_info[PREPROCESSED_OBJECT_FILE_NAME_KEY])
+
+            data_transformation_config=DataTransformationConfig(transformed_train_dir=transformed_train_dir,
+                                                                target_feature_dir=target_feature_dir,
+                                                                preprocessed_object_file_path=preprocessed_object_file_path)
+            
+
+            return data_transformation_config
+        except Exception as e:
+            raise ProjectException(e,sys) from e 
+
 
 
 

@@ -43,14 +43,14 @@ class DataIngestion:
 
 
             logging.info("spliting dataset into train and test")
-            train_df,test_df=train_test_split(df,test_size=0.2,random_state=42)
+            train_df,test_df=train_test_split(df,test_size=0.4,random_state=42)
 
             train_file_path=os.path.join(self.data_ingestion_config.ingested_train_dir,file_name)
             test_file_path=os.path.join(self.data_ingestion_config.ingested_test_dir,file_name)
 
             logging.info("making train file path")
             os.makedirs(self.data_ingestion_config.ingested_train_dir,exist_ok=True)
-            train_df.to_csv(train_file_path,index=False)
+            df.to_csv(train_file_path,index=False)
 
 
             logging.info("making test file path")
