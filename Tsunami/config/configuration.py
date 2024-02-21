@@ -3,7 +3,7 @@ from tsunami.logger import logging
 from tsunami.constants import *
 import os,sys
 from tsunami.utils import read_yaml_file
-from tsunami.entity.config_entity import TrainingPipelineConfig,DataIngestionConfig,DataValidationConfig,DataTransformationConfig
+from tsunami.entity.config_entity import TrainingPipelineConfig,DataIngestionConfig,DataValidationConfig,DataTransformationConfig,ModelTrainerConfig
 
 class configuration:
 
@@ -110,6 +110,40 @@ class configuration:
             raise ProjectException(e,sys) from e 
 
 
+    def get_mode_trainer_config(self)->ModelTrainerConfig:
+        try:
+
+
+            artifact_dir=self.pipeline_config.artifact_dir
+
+            model_trainer_info=self.config[MODEL_TRAINER_CONFIG_KEY]
+
+
+
+            model_trainer_dir=os.path.join(artifact_dir,
+                                           MODEL_TRAINER_DIR,
+                                           self.current_time_stamp)
+            
+            trained_model_file_path=os.path.join(model_trainer_dir,
+                                                 model_trainer_info[TRAINED_MODEL_DIR_KEY],
+                                                 model_trainer_info[MODEL_FILE_NAME_KEY])
+            
+
+            base_accuracy=model_trainer_info[BASE_ACCURACY_KEY]
+
+            model_config_file_path=os.path.join(ROOT_DIR,
+                                                model_trainer_info[MODEL_CONFIG_DIR_KEY],
+                                                model_trainer_info[MODEL_CONFIG_FILE_NAME_KEY])
+
+            model_trainer_config=ModelTrainerConfig(trained_model_file_path=trained_model_file_path,
+                                                    base_accuracy=base_accuracy, 
+                                                    model_config_file_path=model_config_file_path)
+            
+
+            return model_trainer_config
+
+        except Exception as e :
+            raise ProjectException(e,sys) from e
 
 
 

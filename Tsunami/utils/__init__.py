@@ -33,4 +33,13 @@ def save_object(file_path:str,obj):
             dill.dump(obj, file_obj)
     except Exception as e:
         raise ProjectException(e,sys) from e
+
+
+
+def load_object(file_path:str):
+    try:
+        with open(file_path, "rb") as file_obj:
+            return dill.load(file_obj)
+    except Exception as e:
+        raise ProjectException(e,sys) from e
         

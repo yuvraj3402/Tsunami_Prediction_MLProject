@@ -58,7 +58,15 @@ UPDATED_NUMERICAL_COLUMNS_KEY="updated_numerical_columns"
 #columns to transform
 CAUSE_COLUMN_CONSTANT="CAUSE"
 UNKNOWN_DROP_CONSTANT="Unknown"
-EXPLOSION_DROP_CONSTANT="Explosion"
 MONTH_COLUMN_CONSTANT="MONTH"
-VOLCANO_DROP_CONSTANT="Volcano"
 
+
+#model trainer constants
+
+MODEL_TRAINER_CONFIG_KEY="model_trainer_config"
+TRAINED_MODEL_DIR_KEY="trained_model_dir"
+MODEL_TRAINER_DIR="model_trainer"
+MODEL_FILE_NAME_KEY="model_file_name"
+BASE_ACCURACY_KEY="base_accuracy"
+MODEL_CONFIG_DIR_KEY="model_config_dir"
+MODEL_CONFIG_FILE_NAME_KEY="model_config_file_name"
