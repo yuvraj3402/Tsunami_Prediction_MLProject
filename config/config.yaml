@@ -9,6 +9,8 @@ data_ingestion_config:
   dataset_name: tsunami_dataset.csv
   ingested_train_dir: train
   ingested_test_dir: test 
+  schema_dir: config
+  schema_file_name: schema.yaml
 
 
 

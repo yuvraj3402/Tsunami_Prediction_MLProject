@@ -1,0 +1,571 @@
+{% extends 'header.html' %}
+
+{% block head %}
+
+
+<title>Tsunami possibility Prediction Model</title>
+{% endblock %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-md-6 col-sm-12 col-xs-6 col-lg-6">
+
+
+        <form action="/predict" method="post">
+            <legend>Tsunami Data Form</legend>
+
+
+            <div class="mb-3">
+                <label class="form-label">MONTH</label>
+                <select class="form-control" name="MONTH" placeholder="Enter the Month"
+                    required>
+
+                    <option value="January">
+                        &lt;January
+                    </option>
+                    <option value="February">
+                        February
+                    </option>
+                    <option value="March">
+                        March
+                    </option>
+                    <option value="April">
+                        April
+                    </option>
+                    <option value="May">
+                        May
+                    </option>
+                    <option value="June">
+                        June
+                    </option>
+                    <option value="July">
+                        July
+                    </option>
+                    <option value="August">
+                        August
+                    </option>
+                    <option value="September">
+                        September
+                    </option>
+                    <option value="October">
+                        October
+                    </option>
+                    <option value="November">
+                        November
+                    </option>
+                    <option value="December">
+                        December
+                    </option>
+                    <option value="nan">
+                        nan
+                    </option>
+
+                </select>
+            </div>
+
+
+            <div class="mb-3">
+                <label class="form-label">COUNTRY</label>
+                <select class="form-control" name="COUNTRY" placeholder="Enter the COUNTRY"
+                    required>
+                    <option value="ALBANIA">
+                        &lt;ALBANIA
+                    </option>
+                    <option value="ALGERIA">
+                        ALGERIA
+                    </option>
+                    <option value="ANTARCTICA">
+                        ANTARCTICA
+                    </option>
+                    <option value="ANTIGUA AND BARBUDA">
+                        ANTIGUA AND BARBUDA
+                    </option>
+                    <option value="ATLANTIC OCEAN">
+                        ATLANTIC OCEAN
+                    </option>
+                    <option value="AUSTRALIA">
+                        AUSTRALIA
+                    </option>
+                    <option value="BANGLADESH">
+                        BANGLADESH
+                    </option>
+                    <option value="BULGARIA">
+                        BULGARIA
+                    </option>
+                    <option value="CANADA">
+                        CANADA
+                    </option>
+                    <option value="CHILE">
+                        CHILE
+                    </option>
+                    <option value="CHINA">
+                        CHINA
+                    </option>
+                    <option value="COLOMBIA">
+                        COLOMBIA
+                    </option>
+                    <option value="CONGO">
+                        CONGO
+                    </option>
+                    <option value="COOK ISLANDS">
+                        COOK ISLANDS
+                    </option>
+                    <option value="COSTA RICA">
+                        COSTA RICA
+                    </option>
+                    <option value="CROATIA">
+                        CROATIA
+                    </option>
+                    <option value="CUBA">
+                        CUBA
+                    </option>
+                    <option value="CYPRUS">
+                        CYPRUS
+                    </option>
+                    <option value="DEAD SEA">
+                        DEAD SEA
+                    </option>
+                    <option value="DOMINICAN REPUBLIC">
+                        DOMINICAN REPUBLIC
+                    </option>
+                    <option value="ECUADOR">
+                        ECUADOR
+                    </option>
+                    <option value="EGYPT">
+                        EGYPT
+                    </option>
+                    <option value="EL SALVADOR">
+                        EL SALVADOR
+                    </option>
+                    <option value="ERITREA">
+                        ERITREA
+                    </option>
+                    <option value="FIJI">
+                        FIJI
+                    </option>
+                    <option value="FRANCE">
+                        FRANCE
+                    </option>
+                    <option value="FRENCH POLYNESIA">
+                        FRENCH POLYNESIA
+                    </option>
+                    <option value="GEORGIA">
+                        GEORGIA
+                    </option>
+                    <option value="GERMANY">
+                        GERMANY
+                    </option>
+                    <option value="GHANA">
+                        GHANA
+                    </option>
+                    <option value="GREECE">
+                        GREECE
+                    </option>
+                    <option value="GREENLAND">
+                        GREENLAND
+                    </option>
+                    <option value="GRENADA">
+                        GRENADA
+                    </option>
+                    <option value="GUADELOUPE (FRENCH TERRITORY)">
+                        GUADELOUPE (FRENCH TERRITORY)
+                    </option>
+                    <option value="GUATEMALA">
+                        GUATEMALA
+                    </option>
+                    <option value="HAITI">
+                        HAITI
+                    </option>
+                    <option value="HONDURAS">
+                        HONDURAS
+                    </option>
+                    <option value="ICELAND">
+                        ICELAND
+                    </option>
+                    <option value="INDIA">
+                        INDIA
+                    </option>
+                    <option value="INDONESIA">
+                        INDONESIA
+                    </option>
+                    <option value="IRAN">
+                        IRAN
+                    </option>
+                    <option value="ISRAEL">
+                        ISRAEL
+                    </option>
+                    <option value="ITALY">
+                        ITALY
+                    </option>
+                    <option value="JAMAICA">
+                        JAMAICA
+                    </option>
+                    <option value="JAPAN">
+                        JAPAN
+                    </option>
+                    <option value="JORDAN">
+                        JORDAN
+                    </option>
+                    <option value="KENYA">
+                        KENYA
+                    </option>
+                    <option value="KERMADEC ISLANDS">
+                        KERMADEC ISLANDS
+                    </option>
+                    <option value="LEBANON">
+                        LEBANON
+                    </option>
+                    <option value="MARTINIQUE (FRENCH TERRITORY)">
+                        MARTINIQUE (FRENCH TERRITORY)
+                    </option>
+                    <option value="MEXICO">
+                        MEXICO
+                    </option>
+                    <option value="MICRONESIA, FED. STATES OF">
+                        MICRONESIA, FED. STATES OF
+                    </option>
+                    <option value="MONTENEGRO">
+                        MONTENEGRO
+                    </option>
+                    <option value="MONTSERRAT">
+                        MONTSERRAT
+                    </option>
+                    <option value="MOROCCO">
+                        MOROCCO
+                    </option>
+                    <option value="MYANMAR (BURMA)">
+                        MYANMAR (BURMA)
+                    </option>
+                    <option value="NEPAL">
+                        NEPAL
+                    </option>
+                    <option value="NEW CALEDONIA">
+                        NEW CALEDONIA
+                    </option>
+                    <option value="NEW ZEALAND">
+                        NEW ZEALAND
+                    </option>
+                    <option value="NICARAGUA">
+                        NICARAGUA
+                    </option>
+                    <option value="NORTH KOREA">
+                        NORTH KOREA
+                    </option>
+                    <option value="NORTHWEST PACIFIC OCEAN">
+                        NORTHWEST PACIFIC OCEAN
+                    </option>
+                    <option value="NORWAY">
+                        NORWAY
+                    </option>
+                    <option value="PACIFIC OCEAN">
+                        PACIFIC OCEAN
+                    </option>
+                    <option value="PAKISTAN">
+                        PAKISTAN
+                    </option>
+                    <option value="PANAMA">
+                        PANAMA
+                    </option>
+                    <option value="PAPUA NEW GUINEA">
+                        PAPUA NEW GUINEA
+                    </option>
+                    <option value="PERU">
+                        PERU
+                    </option>
+                    <option value="PHILIPPINES">
+                        PHILIPPINES
+                    </option>
+                    <option value="PORTUGAL">
+                        PORTUGAL
+                    </option>
+                    <option value="RUSSIA">
+                        RUSSIA
+                    </option>
+                    <option value="SAINT VINCENT AND THE GRENADINES">
+                        SAINT VINCENT AND THE GRENADINES
+                    </option>
+                    <option value="SAMOA">
+                        SAMOA
+                    </option>
+                    <option value="SOLOMON ISLANDS">
+                        SOLOMON ISLANDS
+                    </option>
+                    <option value="SOUTH AFRICA">
+                        SOUTH AFRICA
+                    </option>
+                    <option value="SOUTH KOREA">
+                        SOUTH KOREA
+                    </option>
+                    <option value="SPAIN">
+                        SPAIN
+                    </option>
+                    <option value="SRI LANKA">
+                        SRI LANKA
+                    </option>
+                    <option value="SUDAN">
+                        SUDAN
+                    </option>
+                    <option value="SWEDEN">
+                        SWEDEN
+                    </option>
+                    <option value="SWITZERLAND">
+                        SWITZERLAND
+                    </option>
+                    <option value="SYRIA">
+                        SYRIA
+                    </option>
+                    <option value="TAIWAN">
+                        TAIWAN
+                    </option>
+                    <option value="TOGO">
+                        TOGO
+                    </option>
+                    <option value="TONGA">
+                        TONGA
+                    </option>
+                    <option value="TRINIDAD AND TOBAGO">
+                        TRINIDAD AND TOBAGO
+                    </option>
+                    <option value="TUNISIA">
+                        TUNISIA
+                    </option>
+                    <option value="TURKEY">
+                        TURKEY
+                    </option>
+                    <option value="TURKMENISTAN">
+                        TURKMENISTAN
+                    </option>
+                    <option value="UK">
+                        UK
+                    </option>
+                    <option value="UK TERRITORY">
+                        UK TERRITORY
+                    </option>
+                    <option value="UKRAINE">
+                        UKRAINE
+                    </option>
+                    <option value="URUGUAY">
+                        URUGUAY
+                    </option>
+                    <option value="USA">
+                        USA
+                    </option>
+                    <option value="USA TERRITORY">
+                        USA TERRITORY
+                    </option>
+                    <option value="VANUATU">
+                        VANUATU
+                    </option>
+                    <option value="VENEZUELA">
+                        VENEZUELA
+                    </option>
+                    <option value="VIETNAM">
+                        VIETNAM
+                    </option>
+                    <option value="WALLIS AND FUTUNA (FRENCH TERRITORY)">
+                        WALLIS AND FUTUNA (FRENCH TERRITORY)
+                    </option>
+                    
+                    
+                </select>
+            </div>
+
+
+            <div class="mb-3">
+                <label class="form-label">REGION</label>
+                <select class="form-control" name="REGION" placeholder="Enter the Region"
+                    required>
+
+                    <option value="Alaska (including Aleutian Islands)">
+                        &lt;Alaska (including Aleutian Islands)
+                    </option>
+                    <option value="Black Sea and Caspian Sea">
+                        Black Sea and Caspian Sea
+                    </option>
+                    <option value="Caribbean Sea">
+                        Caribbean Sea
+                    </option>
+                    <option value="Central Africa">
+                        Central Africa
+                    </option>
+                    <option value="China, North and South Korea, Philippines, Taiwan">
+                        China, North and South Korea, Philippines, Taiwan
+                    </option>
+                    <option value="E Coast Australia, New Zealand, South Pacific Is.">
+                        E Coast Australia, New Zealand, South Pacific Is.
+                    </option>
+                    <option value="East Coast USA and Canada, St Pierre and Miquelon">
+                        East Coast USA and Canada, St Pierre and Miquelon
+                    </option>
+                    <option value="Hawaii, Johnston Atoll, Midway I">
+                        Hawaii, Johnston Atoll, Midway I
+                    </option>
+                    <option value="Indian Ocean (including west coast of Australia)">
+                        Indian Ocean (including west coast of Australia)
+                    </option>
+                    <option value="Indonesia (Pacific Ocean) and Malaysia">
+                        Indonesia (Pacific Ocean) and Malaysia
+                    </option>
+                    <option value="Japan">
+                        Japan
+                    </option>
+                    <option value="Kamchatka and Kuril Islands">
+                        Kamchatka and Kuril Islands
+                    </option>
+                    <option value="Mediterranean Sea">
+                        Mediterranean Sea
+                    </option>
+                    <option value="New Caledonia, New Guinea, Solomon Is., Vanuatu">
+                        New Caledonia, New Guinea, Solomon Is., Vanuatu
+                    </option>
+                    <option value="Northeast Atlantic Ocean">
+                        Northeast Atlantic Ocean
+                    </option>
+                    <option value="Northwest Atlantic Ocean">
+                        Northwest Atlantic Ocean
+                    </option>
+                    <option value="Red Sea and Persian Gulf">
+                        Red Sea and Persian Gulf
+                    </option>
+                    <option value="Southeast Atlantic Ocean">
+                        Southeast Atlantic Ocean
+                    </option>
+                    <option value="Southwest Atlantic Ocean">
+                        Southwest Atlantic Ocean
+                    </option>
+                    <option value="West Coast of Africa">
+                        West Coast of Africa
+                    </option>
+                    <option value="West Coast of North and Central America">
+                        West Coast of North and Central America
+                    </option>
+                    <option value="West Coast of South America">
+                        West Coast of South America
+                    </option>
+                    <option value="nan">
+                        nan
+                    </option>
+                    
+                </select>
+            </div>
+
+
+
+            <div class="mb-3">
+                <label class="form-label">CAUSE</label>
+                <select class="form-control" name="CAUSE" placeholder="Enter the cause"
+                    required>
+
+                    <option value="Earthquake">
+                        &lt;Earthquake
+                    </option>
+                    <option value="Earthquake and Landslide">
+                        Earthquake and Landslide
+                    </option>
+                    <option value="Explosion">
+                        Explosion
+                    </option>
+                    <option value="Landslide">
+                        Landslide
+                    </option>
+                    <option value="Meteorological">
+                        Meteorological
+                    </option>
+                    <option value="Questionable Earthquake">
+                        Questionable Earthquake
+                    </option>
+                    <option value="Volcano">
+                        Volcano
+                    </option>
+                    <option value="Volcano and Earthquake">
+                        Volcano and Earthquake
+                    </option>
+                    <option value="Volcano and Landslide">
+                        Volcano and Landslide
+                    </option>
+
+                </select>
+            </div>
+
+
+
+            <div class="mb-3">
+                <label class="form-label">EQ_MAGNITUDE</label>
+                <input class="form-control" type="text" name="EQ_MAGNITUDE" placeholder="If any recent Earthquake enter it's magnitude "
+                    required />
+            </div>
+
+
+            <div class="mb-3">
+                <label class="form-label">EQ_DEPTH</label>
+                <input class="form-control" type="text" name="EQ_DEPTH" placeholder="Enter Earthquake depth if any"
+                    required />
+
+            </div>
+
+
+
+            <div class="mb-3">
+                <label class="form-label">TS_INTENSITY</label>
+                <input class="form-control" type="text" name="TS_INTENSITY"
+                    placeholder="Enter the intensity of any recent Tsunami if any" />
+
+            </div>
+     
+
+            <div class="mb-3">
+
+                <input class="btn btn-primary" type="submit" value="Predict Tsunami Possibility" required />
+            </div>
+
+        </form>
+    </div>
+
+    <div class="col-md-6 col-sm-12 col-xs-6 col- lg-6">
+        <div class="card">
+            <div class="card-header">
+               Tsunami Possibility Predictor
+            </div>
+            <div class="card-body">
+        {% if context['tsunami_data'] is not none %}
+        <table class="table table-striped">
+            <caption>Tsunami Prediction </caption>
+            <tr>
+                <th>Input Feature</th>
+                <th>Feature Value</th>
+
+            </tr>
+            {% for column,value in context['tsunami_data'].items() %}
+
+
+
+            <tr>
+                <td>{{column}}</td>
+                <td>{{value[0]}}</td>
+            </tr>
+
+            {% endfor %}
+            <tr>
+
+                <td>EVENT_VALIDITY_VALUE </td>
+                <td>
+                    {{ context['EVENT_VALIDITY_VALUE'] }}
+                </td>
+            </tr>
+        </table>
+
+        {% else %}
+       
+              <h5 class="card-title">Submit Form</h5>
+              <p class="card-text">Kindly provide necessary information to estimate Tsunami Possibility</p>
+            
+         
+
+        {% endif %}
+        Go to <a href="/" class="btn btn-primary">Home</a>
+    </div>
+</div>
+    </div>
+
+    {% endblock %}

@@ -3,7 +3,8 @@ from tsunami.logger import logging
 from tsunami.constants import *
 import os,sys
 from tsunami.utils import read_yaml_file
-from tsunami.entity.config_entity import TrainingPipelineConfig,DataIngestionConfig,DataValidationConfig,DataTransformationConfig,ModelTrainerConfig
+from tsunami.entity.config_entity import TrainingPipelineConfig,DataIngestionConfig,DataValidationConfig,DataTransformationConfig,ModelTrainerConfig,\
+ModelEvaluationConfig,ModelPusherConfig
 
 class configuration:
 
@@ -37,17 +38,24 @@ class configuration:
             
             ingested_test_dir=os.path.join(data_ingestion_dir,
                                             data_ingestion_info[INGESTED_TEST_DIR_KEY])
+            
+            schema_dir=data_ingestion_info[SCHEMA_DIR_KEY]
+
+            schema_file_name=data_ingestion_info[SCHEMA_FILE_NAME_KEY]
+
+            schema_file_path=os.path.join(ROOT_DIR,
+                                          schema_dir,
+                                          schema_file_name)
+
 
             data_ingestion_config=DataIngestionConfig(dataset_path=dataset_path,
                                                       ingested_train_dir=ingested_train_dir,
-                                                      ingested_test_dir=ingested_test_dir)
+                                                      ingested_test_dir=ingested_test_dir,
+                                                      schema_file_path=schema_file_path)
             
             return data_ingestion_config
         except Exception as e:
             raise ProjectException(e,sys) from e
-
-
-
 
 
     def get_data_validation_config(self)->DataValidationConfig:
@@ -70,9 +78,6 @@ class configuration:
         except Exception as e:
             raise ProjectException(e,sys) from e
         
-
-
-
     
     def get_data_transformation_config(self)->DataTransformationConfig:
         try:
@@ -110,7 +115,7 @@ class configuration:
             raise ProjectException(e,sys) from e 
 
 
-    def get_mode_trainer_config(self)->ModelTrainerConfig:
+    def get_model_trainer_config(self)->ModelTrainerConfig:
         try:
 
 
@@ -146,7 +151,44 @@ class configuration:
             raise ProjectException(e,sys) from e
 
 
+    def get_mode_evaluation_config(self)->ModelEvaluationConfig:   
+        try:
+            artifact_dir=self.pipeline_config.artifact_dir
 
+            model_evaluation_info=self.config[MODEL_EVALUATION_CONFIG_KEY]
+
+            model_evaluation_dir=os.path.join(artifact_dir,
+                                              MODEL_EVALUATION_DIR_KEY)
+                                            
+
+            model_evaluation_file_path=os.path.join(model_evaluation_dir,
+                                                    model_evaluation_info[MODEL_EVALUATION_FILE_NAME_KEY])
+
+            model_evaluation_config=ModelEvaluationConfig(model_evaluation_file_path=model_evaluation_file_path, 
+                                                          time_stamp=self.current_time_stamp)
+            
+            return model_evaluation_config
+        except Exception as e:
+            raise ProjectException(e,sys) from e
+
+
+    def get_model_pusher_config(self)->ModelPusherConfig:
+        try:
+            time_stamp = f"{datetime.now().strftime('%Y%m%d%H%M%S')}"
+
+            model_pusher_info=self.config[MODEL_PUSHER_CONFIG_KEY]
+            
+            export_dir_path=os.path.join(ROOT_DIR,
+                                         model_pusher_info[MODEL_EXPORT_DIR_KEY],
+                                         time_stamp)
+            
+            model_pusher_artifact=ModelPusherConfig(export_dir_path=export_dir_path)
+
+            return model_pusher_artifact
+            
+        except Exception as e:
+            raise ProjectException(e,sys) from e
+        
 
     def get_pipeline_config(self)->TrainingPipelineConfig:
         try:

@@ -1,7 +1,8 @@
 from collections import namedtuple
 
 DataIngestionConfig=namedtuple("DataIngestionConfig",["dataset_path","ingested_train_dir",
-                                                      "ingested_test_dir"])
+                                                      "ingested_test_dir",
+                                                      "schema_file_path"])
 
 
 

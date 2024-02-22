@@ -6,6 +6,11 @@ from tsunami.entity.artifact_entity import DataIngestionArtifact
 import os,sys
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from tsunami.constants import *
+from tsunami.utils import load_data,read_yaml_file
+
+
+
 
 class DataIngestion:
 
@@ -13,22 +18,62 @@ class DataIngestion:
         try:
             logging.info(f"{'>>'*20} data ingestion log started {'<<'*20}")
             self.data_ingestion_config=data_ingestion_config
+            self.schema_file=read_yaml_file(self.data_ingestion_config.schema_file_path)
         except Exception as e:
             raise ProjectException(e,sys) from e
         
 
 
 
-    def get_dataframe(self):
+
+    def drop_features_and_unknowns(self):
         try:
-            logging.info("getting dataset from dataingestion config")
-            dataset=self.data_ingestion_config.dataset_path
+            logging.info("getting dataset")
+            df=load_data(file_path=self.data_ingestion_config.dataset_path)
+
+            features_to_drop=self.schema_file[DROP_FEATURES_KEY]
+
+            logging.info("droping features from df")
+            df=df.drop(features_to_drop,axis=1)
 
 
-            logging.info("reading dataset from dataingestion config")
-            dataframe=pd.read_csv(dataset)
 
-            return dataframe
+            logging.info("droping unknown data from df")
+            df=df[df[CAUSE_COLUMN_CONSTANT].str.contains(UNKNOWN_DROP_CONSTANT)==False]
+            
+
+            return df
+        
+        except Exception as e:
+            raise ProjectException(e,sys) from e        
+        
+
+
+
+    def map_months_column(self):
+        try:
+            logging.info("getting dataset drop featuress function")
+            df=self.drop_features_and_unknowns()
+
+
+            logging.info("maping month columns in dataset")
+            df[MONTH_COLUMN_CONSTANT]=df[MONTH_COLUMN_CONSTANT].map({1.0:"January", 
+                                                                    2.0:"February",
+                                                                    3.0: "March",
+                                                                    4.0: "April", 
+                                                                    5.0:"May", 
+                                                                    6.0:"June",
+                                                                    7.0: "July", 
+                                                                    8.0:"August",
+                                                                    9.0: "September",
+                                                                    10.0: "October",
+                                                                    11.0: "November",
+                                                                    12.0: "December"})
+                  
+         
+         
+            logging.info("returning datasets after maping")
+            return df
         except Exception as e:
             raise ProjectException(e,sys) from e
         
@@ -37,7 +82,7 @@ class DataIngestion:
 
     def split_into_train_test(self):
         try:
-            df=self.get_dataframe()
+            df=self.map_months_column()
 
             file_name="tsunami.csv"
 

@@ -66,82 +66,6 @@ class DataTransformation:
         
 
 
-
-    def drop_features_and_unknowns(self):
-        try:
-            logging.info("getting train and test df from data ingestion")
-            train_df=load_data(file_path=self.data_ingestion_artifact.train_file_path)
-            test_df=load_data(file_path=self.data_ingestion_artifact.test_file_path)
-
-            features_to_drop=self.schema_file[DROP_FEATURES_KEY]
-
-            logging.info("droping features from train df")
-            train_df=train_df.drop(features_to_drop,axis=1)
-
-            logging.info("droping features from test df")
-            test_df=test_df.drop(features_to_drop,axis=1)
-
-
-            logging.info("droping unknown data from train df")
-            train_df=train_df[train_df[CAUSE_COLUMN_CONSTANT].str.contains(UNKNOWN_DROP_CONSTANT)==False]
-
-
-
-
-
-            logging.info("droping unknown data from test df")
-            test_df=test_df[test_df[CAUSE_COLUMN_CONSTANT].str.contains(UNKNOWN_DROP_CONSTANT)==False]
-
-            
-
-
-            return train_df,test_df
-        
-        except Exception as e:
-            raise ProjectException(e,sys) from e
-
-
-
-
-
-    def map_months_column(self):
-        try:
-            logging.info("getting training and testing data from drop featuress function")
-            train_df,test_df=self.drop_features_and_unknowns()
-
-
-            logging.info("maping month columns in train and test")
-            train_df[MONTH_COLUMN_CONSTANT]=train_df[MONTH_COLUMN_CONSTANT].map({1.0:"January", 
-                                                                                 2.0:"February",
-                                                                                 3.0: "March",
-                                                                                 4.0: "April", 
-                                                                                 5.0:"May", 
-                                                                                 6.0:"June",
-                                                                                 7.0: "July", 
-                                                                                 8.0:"August",
-                                                                                 9.0: "September",
-                                                                                 10.0: "October",
-                                                                                 11.0: "November",
-                                                                                 12.0: "December"})
-            
-            test_df[MONTH_COLUMN_CONSTANT]=test_df[MONTH_COLUMN_CONSTANT].map({1.0:"January",
-                                                                               2.0:"February",
-                                                                               3.0: "March",
-                                                                               4.0: "April",
-                                                                               5.0:"May",
-                                                                               6.0:"June",
-                                                                               7.0: "July",
-                                                                               8.0:"August",
-                                                                               9.0: "September",
-                                                                               10.0: "October",
-                                                                               11.0: "November",
-                                                                               12.0: "December"})      
-         
-         
-            logging.info("returning train and test datasets after maping")
-            return train_df,test_df
-        except Exception as e:
-            raise ProjectException(e,sys) from e
         
 
 
@@ -151,7 +75,7 @@ class DataTransformation:
     def initiate_data_transformation(self)->DataTransformationArtifact:
         try:
             
-            train,test=self.map_months_column()
+            df=load_data(file_path=self.data_ingestion_artifact.train_file_path)
 
 
 
@@ -160,12 +84,12 @@ class DataTransformation:
             target_column=self.schema_file[TARGET_COLUMN_KEY]
 
             logging.info("dropping target column from input train features")
-            input_train_feature=train.drop(columns=target_column,axis=1)
-            train_target_feature=train[target_column]
+            input_feature=df.drop(columns=target_column,axis=1)
+            target_feature=df[target_column]
 
 
             logging.info("transforming input train features using preprocessing object")
-            input_train_feature_arr=preprocessing_obj.fit_transform(input_train_feature)
+            input_feature_arr=preprocessing_obj.fit_transform(input_feature)
 
 
 
@@ -177,7 +101,7 @@ class DataTransformation:
             transformed_train_file_path=os.path.join(transformed_train_dir,filename)
 
             logging.info("saving input transformed arr features in transformed_train_file_path")
-            save_object(transformed_train_file_path,input_train_feature_arr)
+            save_object(transformed_train_file_path,input_feature_arr)
 
 
             logging.info("saving target features in target_feature_file_path")
@@ -185,7 +109,7 @@ class DataTransformation:
             os.makedirs(target_feature_dir,exist_ok=True)
             target_feature_file_name="target_feature.csv"
             target_feature_file_path=os.path.join(target_feature_dir,target_feature_file_name)
-            train_target_feature.to_csv(target_feature_file_path,index=False)
+            target_feature.to_csv(target_feature_file_path,index=False)
             
 
            
