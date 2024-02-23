@@ -1,0 +1,2102 @@
+MONTH,COUNTRY,REGION,CAUSE,EVENT_VALIDITY,EQ_MAGNITUDE,EQ_DEPTH,TS_INTENSITY
+,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,7.0,,
+,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+December,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+January,JAPAN,Japan,Volcano,Definite Tsunami,,,
+August,UK,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+February,ICELAND,Northeast Atlantic Ocean,Volcano,Very Doubtful Tsunami,,,
+May,SPAIN,Northeast Atlantic Ocean,Volcano,Probable Tsunami,,,
+June,SOUTH KOREA,"China, North and South Korea, Philippines, Taiwan",Landslide,Very Doubtful Tsunami,,,
+September,GREECE,Mediterranean Sea,Volcano and Landslide,Definite Tsunami,6.3,,6.0
+April,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,3.0
+,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,1.0
+,GREECE,Mediterranean Sea,Volcano,Definite Tsunami,6.2,,3.0
+November,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,,,2.0
+April,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,7.1,,4.0
+,DEAD SEA,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,3.0
+,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,,,
+March,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,
+,SYRIA,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,6.0
+October,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0.0
+,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.0,,0.5
+October,UK,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+November,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,6.6,,2.0
+February,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.8,,
+April,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+March,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+July,UK,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+April,GERMANY,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+September,ALBANIA,Mediterranean Sea,Earthquake,Questionable Tsunami,6.5,,3.0
+,LEBANON,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+,LEBANON,Mediterranean Sea,Earthquake,Questionable Tsunami,,,6.0
+July,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,7.0,,2.0
+,VENEZUELA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+February,JAPAN,Japan,Earthquake,Questionable Tsunami,,,
+March,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Probable Tsunami,8.5,,2.0
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,,
+July,JAPAN,Japan,Earthquake,Questionable Tsunami,6.4,,
+August,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.5,,-0.5
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano,Questionable Tsunami,,,0.0
+July,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,,,1.0
+,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,,,1.0
+March,PERU,West Coast of South America,Earthquake,Questionable Tsunami,,50.0,1.5
+September,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,,1.0
+February,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,6.8,,3.0
+March,JAMAICA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,,1.0
+June,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,,,0.0
+July,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.5,,3.0
+December,JAPAN,Japan,Earthquake,Probable Tsunami,6.5,,1.0
+February,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,,,1.5
+August,PERU,West Coast of South America,Earthquake,Probable Tsunami,7.5,80.0,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,,1.0
+March,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,1.5
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,2.0
+February,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+September,SOUTH KOREA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.5,,1.0
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,,
+July,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.5,,
+June,SOUTH KOREA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,,,
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,,,1.0
+May,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,6.0,,0.0
+August,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano,Probable Tsunami,,,1.0
+April,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.5,,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,,1.0
+January,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.0,,1.5
+December,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,,,1.0
+December,SOUTH KOREA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.5,,1.0
+April,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,4.0
+July,SOUTH KOREA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.5,,1.0
+September,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,,,2.0
+August,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,3.0
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,8.0,,3.5
+May,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,,
+November,HONDURAS,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+April,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+September,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,,1.0
+September,JAPAN,Japan,Earthquake,Probable Tsunami,7.0,,2.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,,1.0
+January,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+December,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,,2.0
+May,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+May,CYPRUS,Mediterranean Sea,Earthquake,Probable Tsunami,6.6,,4.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,,1.0
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,,1.0
+June,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,,1.0
+November,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,,,2.0
+April,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Probable Tsunami,,,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.8,,1.0
+October,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,,1.0
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,,,0.0
+August,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,6.5,,0.0
+,MYANMAR (BURMA),Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,4.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.5
+,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+November,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,7.0,,1.0
+December,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,2.0
+May,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+January,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,7.3,,4.0
+June,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,,,1.0
+,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.0,,4.0
+,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.9,,3.0
+November,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Very Doubtful Tsunami,,,
+October,VENEZUELA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,7.5,,
+January,JAPAN,Japan,Earthquake,Probable Tsunami,7.4,,2.0
+October,ISRAEL,Mediterranean Sea,Earthquake,Questionable Tsunami,,,4.0
+July,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Probable Tsunami,,,
+September,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,,,2.0
+October,DOMINICAN REPUBLIC,Caribbean Sea,Earthquake,Probable Tsunami,7.3,,
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Definite Tsunami,,,
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Probable Tsunami,7.0,,1.5
+December,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,8.0,,
+February,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,7.0,,3.0
+December,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Definite Tsunami,,,
+November,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,3.0
+April,ANTIGUA AND BARBUDA,Caribbean Sea,Earthquake,Definite Tsunami,8.0,,
+July,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.0,,2.0
+March,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.5,,
+June,PERU,West Coast of South America,Earthquake,Probable Tsunami,8.4,40.0,2.5
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,,,1.0
+,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,1.0
+July,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,8.5,,
+July,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,6.6,,2.0
+April,CROATIA,Mediterranean Sea,Earthquake,Questionable Tsunami,7.2,,4.0
+November,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,8.0,,
+November,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.9,,3.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,,1.0
+May,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.6,,
+September,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.5,,1.5
+,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+July,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.7,,1.5
+July,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.5,60.0,3.5
+April,UK,Northeast Atlantic Ocean,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.2,33.0,
+September,VENEZUELA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+January,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,7.7,,
+March,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,6.5,10.0,3.0
+September,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,7.7,,3.0
+May,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.1,,3.0
+March,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.8,,3.0
+May,SYRIA,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,7.6,,5.0
+December,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,,2.0
+January,SYRIA,Mediterranean Sea,Earthquake,Questionable Tsunami,7.0,,3.0
+October,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.3,,3.0
+December,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.0,,
+July,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,7.8,,3.0
+May,JORDAN,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,4.1,,3.0
+June,CYPRUS,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.3,,4.0
+September,VENEZUELA,Caribbean Sea,Earthquake,Definite Tsunami,,,
+,JAPAN,Japan,Volcano,Definite Tsunami,,,1.0
+July,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano,Probable Tsunami,,,1.5
+January,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,9.0,,
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,2.5
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.0,,1.5
+October,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,,,4.0
+July,NORTH KOREA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.4,,1.5
+May,PERU,West Coast of South America,Earthquake,Questionable Tsunami,,,2.0
+May,CHILE,West Coast of South America,Earthquake,Probable Tsunami,,,1.5
+September,JAPAN,Japan,Earthquake and Landslide,Probable Tsunami,6.4,,1.0
+July,CHILE,West Coast of South America,Earthquake,Definite Tsunami,9.1,,3.5
+April,JAPAN,Japan,Earthquake,Definite Tsunami,8.1,,2.0
+March,CHILE,West Coast of South America,Earthquake,Probable Tsunami,8.0,,2.5
+November,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.5,30.0,3.5
+December,SYRIA,Mediterranean Sea,Earthquake,Definite Tsunami,,,4.0
+May,JAPAN,Japan,Earthquake,Probable Tsunami,6.4,,1.0
+May,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.5,,3.5
+,SYRIA,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,6.0
+,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Questionable Tsunami,,,3.5
+,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,4.0
+July,JAPAN,Japan,Volcano,Definite Tsunami,6.5,,1.5
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,,1.0
+August,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.8,,1.5
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,,,1.5
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,2.0
+April,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,,1.0
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,,2.5
+October,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,1.0
+December,JAPAN,Japan,Earthquake,Questionable Tsunami,7.5,,1.0
+February,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,7.2,,1.0
+January,JAPAN,Japan,Earthquake,Definite Tsunami,8.2,,1.0
+August,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+August,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,8.0,,4.0
+August,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,7.9,,1.0
+June,JAPAN,Japan,Earthquake,Probable Tsunami,6.5,,1.0
+August,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.0,,4.0
+,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,6.8,,4.0
+June,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.1,,5.0
+,GREECE,Mediterranean Sea,Volcano,Definite Tsunami,,,6.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,,1.0
+April,BANGLADESH,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,,,
+May,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.8,,3.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,,3.0
+July,JAPAN,Japan,Volcano,Definite Tsunami,6.5,,1.0
+September,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,1.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,,1.0
+September,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,6.9,,2.0
+October,CHILE,West Coast of South America,Earthquake,Probable Tsunami,8.0,,3.5
+January,ISRAEL,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,,3.0
+September,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,,2.0
+May,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.1,,3.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,,3.0
+March,ISRAEL,Red Sea and Persian Gulf,Earthquake,Probable Tsunami,,,4.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,8.6,,3.0
+July,JAPAN,Japan,Earthquake,Definite Tsunami,8.6,,4.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,,1.0
+,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.0,,3.0
+,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,7.3,,5.0
+July,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,8.0,70.0,4.0
+February,CHILE,West Coast of South America,Earthquake,Probable Tsunami,8.3,,3.0
+December,CHILE,West Coast of South America,Earthquake,Probable Tsunami,8.5,,2.5
+February,JAPAN,Japan,Earthquake,Definite Tsunami,7.9,,3.0
+December,JAPAN,Japan,Earthquake,Definite Tsunami,8.1,,4.0
+October,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.5,30.0,3.5
+June,JAMAICA,Caribbean Sea,Earthquake and Landslide,Definite Tsunami,7.7,,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,8.2,,3.0
+October,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,,4.0
+October,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.0,30.0,3.5
+May,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,6.6,,1.0
+November,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,8.5,,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,1.0
+August,JAPAN,Japan,Earthquake,Probable Tsunami,6.5,,1.0
+June,JAPAN,Japan,Earthquake,Probable Tsunami,7.5,,3.0
+October,JAPAN,Japan,Earthquake,Probable Tsunami,7.0,,2.5
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.8,40.0,1.5
+September,JAPAN,Japan,Earthquake,Definite Tsunami,8.3,,4.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,,2.0
+April,JAPAN,Japan,Landslide,Questionable Tsunami,,,2.0
+August,JAPAN,Japan,Volcano,Definite Tsunami,6.9,,2.5
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,,,0.0
+March,CROATIA,Mediterranean Sea,Earthquake,Questionable Tsunami,,,2.0
+January,NORTHWEST PACIFIC OCEAN,"China, North and South Korea, Philippines, Taiwan",Volcano,Very Doubtful Tsunami,,,
+July,USA,Alaska (including Aleutian Islands),Volcano,Very Doubtful Tsunami,,,
+December,FRANCE,Mediterranean Sea,Questionable Earthquake,Questionable Tsunami,,,
+,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,1.0
+September,CROATIA,Mediterranean Sea,Earthquake,Questionable Tsunami,6.5,,4.0
+July,USA,Alaska (including Aleutian Islands),Earthquake,Very Doubtful Tsunami,,,
+September,JAPAN,Japan,Volcano,Definite Tsunami,,,1.0
+February,CHILE,West Coast of South America,Volcano and Earthquake,Very Doubtful Tsunami,,,
+May,USA,Alaska (including Aleutian Islands),Volcano,Very Doubtful Tsunami,,,
+March,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.0,,4.0
+July,RUSSIA,Kamchatka and Kuril Islands,Volcano,Definite Tsunami,,,
+July,JAPAN,Japan,Landslide,Very Doubtful Tsunami,,,0.0
+,NORTHWEST PACIFIC OCEAN,"China, North and South Korea, Philippines, Taiwan",Volcano,Very Doubtful Tsunami,,,
+May,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.3,,2.0
+October,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Volcano,Very Doubtful Tsunami,,,
+February,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Volcano,Very Doubtful Tsunami,,,
+October,JAPAN,Japan,Volcano,Definite Tsunami,,,1.0
+February,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+November,JAPAN,Japan,Volcano,Definite Tsunami,,,
+September,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Very Doubtful Tsunami,,,
+November,SWEDEN,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+October,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+January,GREECE,Mediterranean Sea,Volcano and Earthquake,Very Doubtful Tsunami,6.1,,
+October,USA,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,0.0
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,1.0
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0.0
+,PERU,West Coast of South America,Earthquake,Questionable Tsunami,,,1.0
+April,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,1.0
+August,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,0.0
+November,BANGLADESH,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,6.0,,
+December,SOUTH AFRICA,West Coast of Africa,Earthquake,Very Doubtful Tsunami,,,
+February,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.0,,4.0
+August,NORWAY,Northeast Atlantic Ocean,Earthquake,Probable Tsunami,5.8,,
+January,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,,40.0,0.0
+November,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.0,,3.0
+,USA,Alaska (including Aleutian Islands),Meteorological,Very Doubtful Tsunami,,,1.0
+May,USA,West Coast of North and Central America,Earthquake and Landslide,Definite Tsunami,5.9,,
+February,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,5.5,,-1.0
+August,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,8.5,,
+July,FRENCH POLYNESIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,0.5
+August,RUSSIA,Kamchatka and Kuril Islands,Volcano and Earthquake,Probable Tsunami,,,1.5
+March,USA,Alaska (including Aleutian Islands),Volcano,Questionable Tsunami,,,0.5
+October,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,,,
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,0.5
+November,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,8.5,600.0,2.0
+August,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,,,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,,
+May,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,7.3,,1.0
+July,CUBA,Caribbean Sea,Questionable Earthquake,Questionable Tsunami,,,
+September,USA,Alaska (including Aleutian Islands),Earthquake,Questionable Tsunami,,,
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,6.0,,0.5
+December,EL SALVADOR,West Coast of North and Central America,Earthquake,Probable Tsunami,7.0,,1.5
+July,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.3,,1.5
+May,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.2,,2.0
+June,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.3,,
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,,,0.5
+May,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,,
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Probable Tsunami,7.0,,1.5
+December,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,,,0.0
+August,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0.0
+November,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,7.0,,1.0
+February,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,,1.0
+September,JAPAN,Japan,Earthquake,Probable Tsunami,6.4,,0.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,
+November,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,2.0
+February,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+January,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+October,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,0.5
+October,PERU,West Coast of South America,Earthquake,Questionable Tsunami,,,0.5
+September,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,0.5
+May,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,,,
+May,USA,Alaska (including Aleutian Islands),Earthquake,Questionable Tsunami,,,2.5
+March,USA TERRITORY,Caribbean Sea,Earthquake,Probable Tsunami,,,
+September,VENEZUELA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,7.5,,
+November,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.0,,3.0
+August,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.5,,1.0
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0.0
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,,2.0
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.5,,1.5
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.8,,0.5
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.0,70.0,1.5
+October,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,0.0
+April,PERU,West Coast of South America,Earthquake,Probable Tsunami,,,0.0
+April,HAITI,Caribbean Sea,Earthquake,Definite Tsunami,7.5,,
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.8,,0.5
+August,EL SALVADOR,West Coast of North and Central America,Earthquake,Probable Tsunami,6.2,,1.5
+July,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,0.0
+June,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.0,,3.0
+December,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,7.3,,1.5
+September,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,,,
+April,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.5,,1.0
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,,,0.0
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,1.5
+May,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.0,50.0,2.0
+September,TURKEY,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+July,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,0.0
+September,HONDURAS,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+March,USA,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,6.0,,0.0
+October,USA,West Coast of North and Central America,Earthquake,Questionable Tsunami,,,0.0
+August,COSTA RICA,West Coast of North and Central America,Earthquake and Landslide,Questionable Tsunami,7.2,,1.5
+August,COSTA RICA,West Coast of North and Central America,Earthquake,Questionable Tsunami,7.2,,1.5
+May,USA,West Coast of North and Central America,Earthquake and Landslide,Very Doubtful Tsunami,,,0.0
+January,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Probable Tsunami,,,0.5
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.0,,0.0
+December,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,,,
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Very Doubtful Tsunami,,,2.0
+December,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,7.0,,0.0
+November,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,
+November,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Questionable Tsunami,,,
+November,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Definite Tsunami,,,
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.8,150.0,-1.5
+May,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,0.0
+,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,0.0
+November,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,6.8,,0.0
+May,USA,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,,,
+October,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Very Doubtful Tsunami,7.9,,0.5
+May,PERU,West Coast of South America,Earthquake,Questionable Tsunami,,,1.5
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,1.0
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.3,,0.5
+July,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,,,0.5
+February,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,6.0,,0.0
+January,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.3,70.0,2.0
+December,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,6.0,,1.5
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,1.5
+May,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.3,100.0,0.5
+November,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.5,,0.5
+July,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.5,,1.0
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,0.5
+March,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,7.0,,0.0
+March,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,,,0.5
+December,TRINIDAD AND TOBAGO,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,,0.5
+August,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,,,1.5
+March,ANTIGUA AND BARBUDA,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+October,JAMAICA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+February,COSTA RICA,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+April,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Very Doubtful Tsunami,6.8,20.0,
+April,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,7.3,,1.0
+December,HAITI,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+April,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,,,0.0
+June,HAITI,Caribbean Sea,Earthquake,Definite Tsunami,,,
+October,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,6.8,,0.5
+March,ALBANIA,Mediterranean Sea,Earthquake,Probable Tsunami,6.3,,3.0
+January,ALBANIA,Mediterranean Sea,Earthquake,Questionable Tsunami,6.5,,4.0
+October,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.0,,0.0
+October,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,6.3,,0.5
+December,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,7.3,,4.0
+October,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.6,,2.5
+November,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.6,,3.0
+October,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,8.3,,3.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,
+July,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,6.0,,0.0
+January,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,8.0,,3.0
+August,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,,,3.0
+July,VENEZUELA,Caribbean Sea,Earthquake,Definite Tsunami,6.7,,
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.5,,1.5
+October,ALBANIA,Mediterranean Sea,Earthquake,Questionable Tsunami,6.6,,3.0
+February,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,7.2,,3.0
+November,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.5,,2.5
+April,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,8.0,,1.5
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.0,,0.0
+October,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.5,,4.0
+July,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,7.5,,
+February,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Definite Tsunami,8.3,33.0,
+May,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.4,30.0,3.0
+January,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.0,150.0,0.0
+January,ISRAEL,Mediterranean Sea,Earthquake,Probable Tsunami,,,4.0
+January,ALBANIA,Mediterranean Sea,Earthquake,Questionable Tsunami,6.4,,4.0
+January,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+November,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,7.5,,0.5
+September,TRINIDAD AND TOBAGO,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+February,COLOMBIA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,6.3,,
+January,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.8,,3.0
+October,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,,,1.0
+November,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.5,,2.0
+May,COSTA RICA,Caribbean Sea,Earthquake,Questionable Tsunami,7.6,,
+January,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.5,,
+May,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,,1.5
+June,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.7,,
+April,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.5,,2.0
+August,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.8,,3.0
+December,USA,West Coast of North and Central America,Earthquake and Landslide,Definite Tsunami,7.5,,1.5
+November,JAMAICA,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+March,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,7.7,33.0,
+September,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,,0.0
+December,PERU,West Coast of South America,Earthquake,Probable Tsunami,7.5,,0.5
+June,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.7,,3.0
+January,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,,
+August,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Very Doubtful Tsunami,8.4,,2.0
+August,JAMAICA,Caribbean Sea,Questionable Earthquake,Very Doubtful Tsunami,,,
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,,3.0
+April,JAPAN,Japan,Volcano,Definite Tsunami,,,1.0
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano and Earthquake,Very Doubtful Tsunami,,,0.5
+December,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,7.0,,2.0
+January,PERU,West Coast of South America,Earthquake,Probable Tsunami,,,1.5
+October,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,1.0
+March,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8.3,,2.5
+April,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Definite Tsunami,7.9,,3.5
+November,USA TERRITORY,Caribbean Sea,Earthquake,Definite Tsunami,7.5,33.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,8.0,,2.0
+March,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano,Definite Tsunami,,,1.0
+April,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,,2.5
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,6.5,,1.0
+November,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.5,,3.0
+February,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.2,,3.0
+December,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,,2.5
+November,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.3,75.0,2.5
+February,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,2.0
+March,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,8.3,100.0,2.5
+,USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,1.0,4.0
+April,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,8.0,,1.5
+June,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,1.0
+September,JAPAN,Japan,Earthquake,Probable Tsunami,6.5,,1.0
+December,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.0,,2.0
+September,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.1,,4.0
+June,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.5,,1.0
+February,JAPAN,Japan,Earthquake,Definite Tsunami,8.3,33.0,2.0
+April,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Definite Tsunami,,,1.5
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.0,20.0,2.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,,1.0
+February,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.0,,3.0
+August,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.0,,4.0
+July,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.0,,4.0
+August,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,7.3,,1.0
+May,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.8,,1.5
+December,JAPAN,Japan,Earthquake,Definite Tsunami,8.3,,3.0
+January,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,7.5,,2.0
+May,HAITI,Caribbean Sea,Earthquake,Definite Tsunami,8.1,,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,,2.0
+December,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,80.0,3.5
+July,JAPAN,Japan,Earthquake,Definite Tsunami,7.3,,1.0
+April,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,,3.0
+May,JAPAN,Japan,Volcano,Definite Tsunami,6.4,,3.0
+November,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Probable Tsunami,7.0,150.0,1.5
+December,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,,2.5
+February,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.5,70.0,3.0
+August,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.5,25.0,3.5
+May,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.0,,2.5
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.0,,0.0
+November,TRINIDAD AND TOBAGO,Caribbean Sea,Landslide,Probable Tsunami,,,
+May,ITALY,Mediterranean Sea,Volcano,Definite Tsunami,,,4.0
+July,USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,,2.5
+June,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+July,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,
+October,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Questionable Tsunami,,,0.0
+July,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano,Very Doubtful Tsunami,,,0.0
+August,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Volcano,Definite Tsunami,,,
+November,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Questionable Tsunami,,,
+May,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Volcano,Questionable Tsunami,,,
+February,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,0.0
+November,USA,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,,,-3.0
+April,USA,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,,,2.0
+November,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,
+June,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,
+October,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Definite Tsunami,,,
+July,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,
+August,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,0.5
+June,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano,Definite Tsunami,,,1.0
+October,USA,"Hawaii, Johnston Atoll, Midway I",Volcano and Landslide,Definite Tsunami,,,2.0
+July,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,1.0
+June,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,
+June,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,
+June,EGYPT,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+September,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,,,
+September,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Very Doubtful Tsunami,6.9,60.0,0.5
+July,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Questionable Tsunami,,,0.5
+December,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.2,,
+,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.0,,
+May,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,
+May,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,
+August,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.0,,1.0
+August,USA,West Coast of North and Central America,Earthquake and Landslide,Questionable Tsunami,,,
+September,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Probable Tsunami,5.5,33.0,0.0
+December,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+January,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.5,,0.0
+February,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,6.0,,0.0
+January,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.9,33.0,
+March,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,6.7,,
+November,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,,,
+February,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Very Doubtful Tsunami,7.0,,
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,5.5,15.0,1.0
+July,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,1.0
+February,ECUADOR,West Coast of South America,Earthquake,Definite Tsunami,,,0.5
+November,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,,,1.0
+February,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,8.0,,1.5
+March,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.5,,0.5
+May,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,33.0,
+,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,8.0,,2.0
+July,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.8,,0.0
+January,SRI LANKA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,,,
+January,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.2,33.0,
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,1.0
+January,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,7.4,33.0,
+August,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.7,14.0,3.0
+February,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.2,130.0,
+December,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.7,,-1.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,6.0,33.0,
+July,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.5,,
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.0,70.0,-1.0
+October,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.0,,0.5
+October,JAPAN,Japan,Earthquake,Questionable Tsunami,7.0,,1.5
+January,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,
+June,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.0,,0.0
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,6.2,60.0,1.0
+September,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,-2.0
+June,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,7.0,,
+April,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,0.5
+March,USA TERRITORY,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+November,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,6.4,33.0,0.5
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,8.0,70.0,2.5
+February,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,0.0
+August,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,0.5
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0.0
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0.5
+August,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.0,15.0,1.0
+October,USA TERRITORY,Caribbean Sea,Earthquake,Probable Tsunami,,,
+May,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,5.8,33.0,-0.5
+January,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.5,,1.0
+May,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0.0
+January,PERU,West Coast of South America,Earthquake,Questionable Tsunami,,33.0,1.5
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,33.0,
+July,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.0,30.0,
+February,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,6.8,33.0,0.5
+October,"MICRONESIA, FED. STATES OF","E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,6.9,33.0,0.0
+June,JAPAN,Japan,Earthquake,Probable Tsunami,6.6,100.0,0.0
+September,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.3,,
+May,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,,,0.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,,
+September,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Definite Tsunami,6.8,33.0,0.0
+February,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Very Doubtful Tsunami,6.0,,
+February,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.5,130.0,1.0
+December,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.4,33.0,
+March,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,7.3,500.0,2.0
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,6.5,,0.0
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0.0
+December,CHILE,West Coast of South America,Earthquake,Probable Tsunami,6.5,,
+July,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,
+March,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.5,33.0,0.0
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.1,,1.5
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,,
+October,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.8,,0.0
+January,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,,-2.5
+May,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,,,0.5
+July,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,6.0,,0.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,1.0
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.0,,1.5
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,,0.0
+May,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,,,1.0
+July,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,1.0
+June,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,
+November,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.0,,1.0
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,
+December,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,
+November,CHILE,West Coast of South America,Earthquake,Probable Tsunami,,,0.5
+April,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.3,,0.5
+October,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.5,,0.5
+September,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+February,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+October,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+August,JAMAICA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+July,CHILE,West Coast of South America,Earthquake,Probable Tsunami,,,1.0
+October,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Probable Tsunami,6.3,,0.0
+September,USA,Alaska (including Aleutian Islands),Earthquake,Probable Tsunami,6.3,,
+August,USA,Alaska (including Aleutian Islands),Volcano and Earthquake,Very Doubtful Tsunami,,,1.5
+June,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,0.0
+March,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,0.0
+February,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,,,1.0
+January,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,,3.0
+October,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,0.5
+August,CHILE,West Coast of South America,Earthquake,Probable Tsunami,,,0.5
+May,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+May,PERU,West Coast of South America,Earthquake,Questionable Tsunami,,,1.0
+May,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,6.8,50.0,-1.0
+May,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.0,,0.5
+February,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,
+November,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,6.7,,
+November,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,2.0
+August,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,,,0.0
+January,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,6.0,,1.5
+December,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,0.5
+August,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0.0
+February,PERU,West Coast of South America,Earthquake,Questionable Tsunami,,,1.0
+August,CHILE,West Coast of South America,Earthquake,Probable Tsunami,,,1.5
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.0,33.0,0.5
+February,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.3,,0.0
+November,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.5,,1.0
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,,-2.0
+May,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.2,,0.5
+September,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.8,35.0,
+February,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,7.7,,
+May,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,8.2,35.0,1.0
+April,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.1,25.0,1.5
+January,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,8.3,180.0,
+December,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.8,33.0,2.5
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.8,33.0,2.0
+May,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.9,80.0,
+February,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake and Landslide,Definite Tsunami,7.5,33.0,-1.0
+November,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,7.5,60.0,1.0
+July,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.5,,1.0
+May,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.0,60.0,3.0
+January,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,6.4,33.0,
+January,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,7.8,40.0,
+January,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.6,33.0,
+April,PANAMA,Caribbean Sea,Earthquake,Definite Tsunami,7.0,25.0,
+January,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.9,35.0,2.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.8,60.0,0.5
+September,EL SALVADOR,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,7.9,80.0,0.5
+November,GREECE,Mediterranean Sea,Earthquake and Landslide,Very Doubtful Tsunami,6.3,30.0,4.0
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.6,35.0,
+January,JAPAN,Japan,Volcano and Earthquake,Definite Tsunami,7.1,33.0,-1.0
+August,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.9,33.0,
+July,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,7.8,50.0,
+June,JAPAN,Japan,Earthquake,Definite Tsunami,8.0,160.0,1.5
+December,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.0,100.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,33.0,
+July,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,7.4,,
+June,CHILE,West Coast of South America,Earthquake,Event that only caused a seiche or disturbance in an inland river,7.6,,
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.6,40.0,1.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,80.0,
+December,PERU,West Coast of South America,Questionable Earthquake,Very Doubtful Tsunami,,,
+April,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,8.1,,
+January,JAMAICA,Caribbean Sea,Earthquake,Definite Tsunami,6.5,,
+December,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.9,33.0,
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.2,,1.5
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,8.0,33.0,1.5
+August,CHILE,West Coast of South America,Earthquake,Probable Tsunami,8.2,25.0,2.0
+April,USA,West Coast of North and Central America,Earthquake and Landslide,Definite Tsunami,7.9,33.0,-4.0
+April,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,7.8,25.0,
+August,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,7.2,33.0,
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Probable Tsunami,8.1,,
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,30.0,2.0
+January,COLOMBIA,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.9,33.0,
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,7.3,,2.0
+July,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.6,,2.0
+December,USA,Alaska (including Aleutian Islands),Earthquake,Very Doubtful Tsunami,7.1,25.0,
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.0,,0.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,33.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,33.0,-1.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,33.0,-0.5
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,33.0,-1.5
+October,VENEZUELA,Caribbean Sea,Earthquake,Probable Tsunami,8.4,25.0,
+December,USA,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,6.4,,0.5
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,,-1.0
+September,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,8.2,25.0,3.0
+September,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.2,,0.0
+January,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.6,,3.0
+April,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,,-3.0
+March,USA,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,6.2,,2.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,,1.0
+February,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,33.0,
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,-1.0
+July,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,6.7,,3.0
+April,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,7.0,,4.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.9,,1.5
+June,ALBANIA,Mediterranean Sea,Earthquake,Questionable Tsunami,7.5,,3.0
+April,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.4,,
+February,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.5,,3.0
+May,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.5,,0.5
+May,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,6.8,,-3.0
+October,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.2,,3.0
+September,HAITI,Caribbean Sea,Earthquake,Definite Tsunami,,,
+May,MEXICO,West Coast of North and Central America,Earthquake and Landslide,Very Doubtful Tsunami,8.0,,1.0
+February,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,,,
+August,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.5,,3.0
+November,PANAMA,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,7.5,,
+December,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.9,,
+August,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.7,,0.5
+July,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake and Landslide,Definite Tsunami,7.5,100.0,0.0
+January,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.9,40.0,
+August,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.5,,1.5
+December,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.9,,3.0
+April,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Very Doubtful Tsunami,,,2.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,33.0,1.0
+November,USA,West Coast of North and Central America,Landslide,Probable Tsunami,,,1.5
+February,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Meteorological,Very Doubtful Tsunami,,,
+October,USA,Alaska (including Aleutian Islands),Volcano and Landslide,Definite Tsunami,,,3.0
+January,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Definite Tsunami,,,
+October,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,6.9,,1.5
+March,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,8.0,,2.5
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.2,33.0,3.0
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,8.3,33.0,2.5
+June,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.3,25.0,3.0
+May,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,8.1,15.0,2.0
+August,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,,
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,8.7,33.0,2.5
+September,PANAMA,Caribbean Sea,Earthquake and Landslide,Definite Tsunami,7.9,40.0,1.0
+March,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,,2.0
+July,JAPAN,Japan,Earthquake,Probable Tsunami,7.0,33.0,
+February,EL SALVADOR,West Coast of North and Central America,Earthquake,Probable Tsunami,7.0,,2.0
+March,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano,Definite Tsunami,,,3.5
+January,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,,,1.5
+December,ALBANIA,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,5.6,,5.0
+October,USA TERRITORY,Caribbean Sea,Earthquake and Landslide,Definite Tsunami,7.1,15.0,
+January,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.6,50.0,2.0
+January,ECUADOR,West Coast of South America,Earthquake,Definite Tsunami,8.8,25.0,3.0
+May,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.3,,3.5
+June,JAPAN,Japan,Earthquake,Definite Tsunami,8.3,,3.8
+December,ITALY,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,7.0,40.0,5.0
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake and Landslide,Definite Tsunami,7.8,,3.0
+March,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano and Landslide,Definite Tsunami,,,3.5
+August,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Definite Tsunami,,,4.0
+September,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,7.6,,
+August,CHILE,West Coast of South America,Meteorological,Questionable Tsunami,,,2.5
+September,JAPAN,Japan,Volcano,Definite Tsunami,,,-1.0
+June,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Probable Tsunami,,,1.0
+September,JAPAN,Japan,Volcano,Definite Tsunami,,,-1.0
+March,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Very Doubtful Tsunami,,,
+November,USA,"Hawaii, Johnston Atoll, Midway I",Meteorological,Very Doubtful Tsunami,,8.0,2.0
+March,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Questionable Tsunami,,,2.0
+January,RUSSIA,Kamchatka and Kuril Islands,Volcano,Definite Tsunami,6.0,33.0,2.0
+December,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Probable Tsunami,,,
+March,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Very Doubtful Tsunami,,,
+September,JAPAN,Japan,Volcano,Definite Tsunami,,,-1.0
+March,RUSSIA,Kamchatka and Kuril Islands,Volcano,Questionable Tsunami,,,
+October,USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,,4.0
+September,JAPAN,Japan,Volcano,Definite Tsunami,,,
+November,RUSSIA,Kamchatka and Kuril Islands,Volcano,Probable Tsunami,,,
+August,USA,West Coast of North and Central America,Meteorological,Event that only caused a seiche or disturbance in an inland river,,,3.0
+March,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,,,
+December,ANTARCTICA,West Coast of South America,Volcano,Very Doubtful Tsunami,,,0.0
+October,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Very Doubtful Tsunami,,,0.0
+July,UK,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+March,JAPAN,Japan,Volcano,Definite Tsunami,,,-1.0
+January,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,15.0,
+July,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,6.8,260.0,
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.4,80.0,-4.0
+December,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,,,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,20.0,-0.5
+January,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.1,55.0,
+April,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,5.2,,
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Probable Tsunami,5.8,,
+August,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,5.8,10.0,
+May,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,,
+August,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,7.0,35.0,
+October,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Probable Tsunami,7.1,25.0,
+August,ICELAND,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+February,JAPAN,Japan,Earthquake,Definite Tsunami,7.3,20.0,-1.5
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.0,,-0.5
+August,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,33.0,
+December,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.5,33.0,0.0
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.3,,0.0
+May,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,40.0,-2.0
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Very Doubtful Tsunami,7.0,38.0,
+August,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.3,33.0,1.0
+July,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.8,15.0,-2.0
+April,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,60.0,-3.5
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,30.0,-3.0
+October,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,10.0,-4.0
+February,PERU,West Coast of South America,Earthquake,Questionable Tsunami,5.5,,
+January,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.0,33.0,
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,20.0,-0.5
+May,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,20.0,
+May,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.8,33.0,0.5
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.0,33.0,
+May,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,30.0,0.0
+July,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.0,33.0,
+May,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.1,50.0,
+January,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.3,40.0,-1.0
+November,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,5.9,35.0,
+September,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.0,40.0,-1.5
+October,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.5,28.0,
+August,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,13.0,2.5
+July,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.5,40.0,-2.0
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.2,,-3.0
+March,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.0,58.0,
+February,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.0,36.0,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,40.0,-3.0
+December,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.6,64.0,0.0
+October,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,48.0,-2.0
+May,JAPAN,Japan,Earthquake,Questionable Tsunami,5.7,60.0,-2.0
+April,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,25.0,-2.0
+March,PANAMA,West Coast of North and Central America,Earthquake,Probable Tsunami,6.8,35.0,
+October,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.5,15.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,80.0,-4.0
+August,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,6.4,25.0,
+July,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.3,45.0,-0.5
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,60.0,-3.0
+February,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.6,80.0,-0.5
+January,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,20.0,-2.0
+January,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,20.0,-2.0
+January,JAPAN,Japan,Earthquake,Definite Tsunami,6.8,40.0,-2.0
+November,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.4,55.0,
+June,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.6,33.0,0.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,20.0,-2.5
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,20.0,-2.0
+April,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,5.0,40.0,-2.0
+February,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.4,19.0,-2.0
+January,JAPAN,Japan,Earthquake,Definite Tsunami,6.8,40.0,-2.0
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,7.0,29.0,-1.0
+November,PACIFIC OCEAN,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.1,,
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,5.0,40.0,-1.0
+October,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.0,,0.0
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,5.5,,
+December,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.0,33.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,20.0,-2.0
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.3,35.0,
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.5,33.0,
+May,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.3,,
+January,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,5.5,,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,6.1,30.0,-1.0
+May,DOMINICAN REPUBLIC,Caribbean Sea,Earthquake,Questionable Tsunami,7.2,33.0,
+May,COSTA RICA,West Coast of North and Central America,Earthquake,Questionable Tsunami,6.9,64.0,-3.0
+March,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Definite Tsunami,4.5,33.0,0.0
+November,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.3,33.0,
+October,GUATEMALA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.5,65.0,-1.0
+March,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,5.8,,0.0
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,60.0,-1.0
+May,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.7,,
+January,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,5.9,150.0,
+December,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.0,100.0,0.0
+April,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,40.0,-1.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,33.0,1.0
+May,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,12.0,
+March,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Probable Tsunami,7.1,12.0,3.0
+November,USA,Alaska (including Aleutian Islands),Earthquake,Very Doubtful Tsunami,7.0,40.0,
+September,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.0,70.0,
+June,CANADA,West Coast of North and Central America,Earthquake and Landslide,Definite Tsunami,7.3,,2.0
+December,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.9,,-4.0
+February,USA,West Coast of North and Central America,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.6,,
+January,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,15.0,-2.5
+October,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.0,33.0,
+August,CUBA,Caribbean Sea,Earthquake,Questionable Tsunami,5.6,,
+May,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,6.5,110.0,0.5
+April,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.4,100.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,20.0,0.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,10.0,-2.5
+November,JAPAN,Japan,Earthquake,Definite Tsunami,6.0,60.0,-1.5
+December,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,7.2,46.0,0.5
+December,USA,Alaska (including Aleutian Islands),Earthquake,Very Doubtful Tsunami,6.5,33.0,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,60.0,-3.5
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.5,200.0,0.5
+October,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.3,75.0,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,50.0,-3.0
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.4,,
+February,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,,,
+December,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.0,33.0,0.5
+November,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,7.0,80.0,3.0
+November,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.0,33.0,
+February,CANADA,West Coast of North and Central America,Earthquake,Questionable Tsunami,5.8,33.0,0.0
+December,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,35.0,
+November,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.1,33.0,2.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,10.0,
+September,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.9,35.0,1.5
+March,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Very Doubtful Tsunami,,,
+February,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Probable Tsunami,6.0,,1.0
+January,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0.0
+May,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake and Landslide,Definite Tsunami,6.5,,1.5
+April,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake and Landslide,Definite Tsunami,8.3,33.0,0.5
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.8,15.0,
+November,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,7.1,149.0,
+November,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.1,145.0,
+July,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,5.5,,1.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.3,40.0,-1.5
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.2,22.0,0.5
+January,USA,West Coast of North and Central America,Earthquake,Event that only caused a seiche or disturbance in an inland river,7.2,,
+December,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,6.3,,0.0
+July,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0.0
+March,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,,,
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Probable Tsunami,5.7,33.0,1.0
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,40.0,
+July,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.3,60.0,0.5
+November,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.5,,
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,10.0,-2.0
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,10.0,-1.0
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,,
+July,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.2,35.0,
+October,ECUADOR,West Coast of South America,Earthquake,Probable Tsunami,6.9,33.0,1.5
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,20.0,
+November,VENEZUELA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+September,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,6.8,,0.0
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.2,17.0,0.0
+March,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.1,33.0,
+February,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,7.1,,0.0
+December,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.0,,0.5
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.6,35.0,
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0.0
+July,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.5,100.0,
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.0,33.0,
+May,CANADA,West Coast of North and Central America,Earthquake,Probable Tsunami,7.0,33.0,0.0
+May,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,30.0,
+November,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.1,33.0,
+July,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.0,70.0,
+May,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,0.5
+May,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,4.3,,2.0
+April,PERU,West Coast of South America,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.8,,
+December,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.9,130.0,
+April,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,30.0,1.0
+February,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.2,15.0,3.0
+August,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.4,30.0,
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.1,100.0,1.5
+December,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.8,47.0,0.5
+October,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.1,38.0,1.5
+June,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.1,31.0,1.0
+March,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.6,48.0,0.0
+August,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.8,,
+March,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.6,20.0,-1.0
+February,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.7,36.0,2.5
+November,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.6,45.0,
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Probable Tsunami,7.0,100.0,0.0
+October,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.9,28.0,3.0
+October,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.5,13.0,2.5
+September,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.0,75.0,
+February,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.3,47.0,-2.0
+May,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,7.2,33.0,
+May,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.0,40.0,0.0
+February,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,74.0,-0.5
+May,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.2,35.0,-1.0
+February,MOROCCO,West Coast of Africa,Earthquake,Very Doubtful Tsunami,6.8,,
+January,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.8,160.0,3.0
+August,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,33.0,
+May,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.2,60.0,1.0
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,40.0,2.5
+July,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.9,25.0,0.5
+June,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.3,33.0,
+November,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,5.8,,2.0
+December,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.4,30.0,0.5
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,60.0,1.5
+May,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.6,60.0,
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.8,25.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,20.0,-2.0
+August,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Definite Tsunami,6.9,12.0,0.5
+December,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.5,50.0,
+December,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.0,80.0,0.0
+October,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,33.0,-2.0
+August,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,8.6,33.0,
+August,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,6.8,,
+December,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.8,33.0,
+August,CANADA,West Coast of North and Central America,Earthquake and Landslide,Definite Tsunami,8.1,25.0,
+July,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,15.0,2.0
+April,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.3,70.0,
+April,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,7.0,70.0,
+December,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,6.9,,1.5
+September,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,33.0,1.5
+April,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.5,15.0,4.0
+February,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.1,40.0,4.0
+October,GREECE,Mediterranean Sea,Earthquake and Landslide,Probable Tsunami,6.9,28.0,2.0
+August,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.9,60.0,9.0
+January,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,33.0,-0.5
+April,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.2,35.0,
+August,PERU,West Coast of South America,Earthquake and Landslide,Definite Tsunami,8.2,60.0,1.0
+May,COLOMBIA,West Coast of South America,Earthquake,Very Doubtful Tsunami,5.8,130.0,1.0
+December,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,,-3.0
+June,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.0,20.0,
+May,PERU,West Coast of South America,Earthquake,Questionable Tsunami,8.2,60.0,1.5
+December,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,8.0,150.0,
+June,GHANA,West Coast of Africa,Earthquake,Questionable Tsunami,6.4,13.0,
+May,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,,0.0
+January,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.7,35.0,1.0
+January,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,8.3,60.0,
+November,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.2,25.0,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,0.0,-0.5
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,30.0,-0.5
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,30.0,-0.5
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,35.0,0.0
+May,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,,
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,8.5,,1.5
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.5,60.0,1.0
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,7.3,,2.0
+August,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.3,,
+April,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.7,60.0,2.0
+December,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,7.9,33.0,
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.8,30.0,
+May,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,7.5,,
+July,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.8,35.0,
+July,PANAMA,West Coast of North and Central America,Earthquake,Probable Tsunami,7.7,60.0,1.5
+February,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.9,55.0,0.5
+January,NEPAL,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,8.0,35.0,
+April,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.4,15.0,
+March,USA,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,6.3,16.0,-3.0
+February,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.6,40.0,
+September,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.9,35.0,3.0
+June,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.8,15.0,0.5
+February,CUBA,Caribbean Sea,Earthquake,Questionable Tsunami,6.7,,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,40.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,60.0,-1.0
+February,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Definite Tsunami,7.7,35.0,0.0
+June,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Questionable Tsunami,7.5,,1.5
+June,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.2,,0.5
+March,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,50.0,
+January,VENEZUELA,Caribbean Sea,Earthquake,Definite Tsunami,6.9,,
+December,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.6,25.0,0.5
+June,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,35.0,1.0
+June,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.0,33.0,0.5
+April,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.0,29.0,3.0
+March,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.5,,2.0
+March,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,60.0,
+November,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,10.0,1.0
+March,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,7.6,10.0,0.5
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,5.8,,
+May,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.3,,0.5
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.3,33.0,0.5
+June,AUSTRALIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,7.8,,
+September,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,20.0,-1.5
+February,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,19.0,
+February,GREECE,Mediterranean Sea,Landslide,Definite Tsunami,,,5.0
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Very Doubtful Tsunami,,,1.0
+May,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,1.5
+September,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Definite Tsunami,6.4,33.0,1.0
+August,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,5.2,15.0,-0.5
+July,GREECE,Mediterranean Sea,Earthquake and Landslide,Very Doubtful Tsunami,6.3,18.0,2.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,10.0,1.5
+May,JAPAN,Japan,Earthquake,Definite Tsunami,6.1,,
+December,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.5,33.0,1.5
+April,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,5.5,33.0,1.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,40.0,2.0
+July,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,7.8,35.0,5.0
+January,ECUADOR,West Coast of South America,Earthquake,Definite Tsunami,7.6,60.0,2.0
+March,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.6,33.0,3.0
+July,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.8,20.0,5.0
+April,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.1,30.0,1.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,8.1,45.0,2.0
+October,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.6,,2.0
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,7.2,33.0,1.5
+January,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,8.3,33.0,1.5
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,10.0,0.0
+April,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.9,35.0,1.5
+May,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,,
+June,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8.1,35.0,2.0
+October,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.8,35.0,2.5
+November,CANADA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake and Landslide,Definite Tsunami,7.3,20.0,
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.3,,1.0
+April,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.9,30.0,1.0
+December,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,6.3,,3.0
+January,USA,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,5.7,,1.0
+April,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.2,20.0,3.5
+November,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.3,22.0,0.5
+May,JAPAN,Japan,Earthquake,Definite Tsunami,8.2,7.0,2.0
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,6.0,2.0
+November,PERU,West Coast of South America,Earthquake,Probable Tsunami,6.8,93.0,4.0
+August,DOMINICAN REPUBLIC,Caribbean Sea,Earthquake,Definite Tsunami,7.5,15.0,
+June,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,25.0,1.5
+November,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.7,35.0,2.5
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Definite Tsunami,,,
+August,INDONESIA,Indian Ocean (including west coast of Australia),Volcano and Landslide,Definite Tsunami,,1.0,3.0
+December,"MICRONESIA, FED. STATES OF","E Coast Australia, New Zealand, South Pacific Is.",Meteorological,Very Doubtful Tsunami,,,1.5
+March,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,9.2,33.0,3.5
+April,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,8.6,15.0,4.0
+September,JAPAN,Japan,Earthquake,Definite Tsunami,7.9,33.0,3.0
+March,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,35.0,3.5
+December,JAPAN,Japan,Earthquake,Definite Tsunami,8.1,30.0,2.5
+November,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Definite Tsunami,8.0,,
+August,DOMINICAN REPUBLIC,Caribbean Sea,Earthquake,Definite Tsunami,7.9,15.0,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,8.1,20.0,2.5
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,9.0,22.0,4.0
+May,CHILE,West Coast of South America,Earthquake,Definite Tsunami,9.5,33.0,4.0
+August,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+September,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,
+September,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,
+May,GREECE,Mediterranean Sea,Meteorological,Very Doubtful Tsunami,,,
+January,GREECE,Mediterranean Sea,Landslide,Definite Tsunami,,,2.0
+May,USA,"East Coast USA and Canada, St Pierre and Miquelon",Landslide,Probable Tsunami,,0.0,
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,70.0,
+June,USA,"East Coast USA and Canada, St Pierre and Miquelon",Landslide,Questionable Tsunami,,,
+December,MONTSERRAT,Caribbean Sea,Volcano and Landslide,Definite Tsunami,,,
+September,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,
+August,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Landslide,Probable Tsunami,,,
+January,RUSSIA,Kamchatka and Kuril Islands,Volcano,Definite Tsunami,,,
+December,CUBA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,0.0,
+January,USA,"East Coast USA and Canada, St Pierre and Miquelon",Landslide,Questionable Tsunami,,,
+November,USA,West Coast of North and Central America,Landslide,Very Doubtful Tsunami,,0.0,
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,
+May,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Event that only caused a seiche or disturbance in an inland river,,,
+April,USA,"East Coast USA and Canada, St Pierre and Miquelon",Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+May,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Volcano,Questionable Tsunami,,,
+September,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,
+December,RUSSIA,Kamchatka and Kuril Islands,Landslide,Probable Tsunami,,,2.0
+May,SOUTH AFRICA,West Coast of Africa,Landslide,Questionable Tsunami,,,
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Questionable Tsunami,,,
+September,VENEZUELA,Caribbean Sea,Landslide,Questionable Tsunami,5.0,0.0,
+,VENEZUELA,Caribbean Sea,Questionable Earthquake,Very Doubtful Tsunami,,,
+,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,7.0,,3.0
+December,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.3,10.0,
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.0,21.0,-4.0
+December,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,8.0,,
+June,COLOMBIA,Caribbean Sea,Questionable Earthquake,Event that only caused a seiche or disturbance in an inland river,6.5,120.0,
+March,JAPAN,Japan,Earthquake,Probable Tsunami,6.4,33.0,
+October,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.7,167.0,
+July,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.7,48.0,
+June,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,6.3,75.0,
+February,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,5.4,29.0,3.0
+April,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,33.0,-1.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,5.5,41.0,
+September,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Probable Tsunami,4.3,,
+May,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+January,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+February,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,48.0,
+November,USA TERRITORY,Caribbean Sea,Earthquake,Probable Tsunami,4.4,26.0,
+December,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.8,14.0,
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.7,17.0,
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,10.0,
+October,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,22.0,0.5
+November,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.7,20.0,-3.0
+October,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.3,33.0,-3.0
+April,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,13.0,-1.5
+September,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,10.0,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,37.0,-1.0
+February,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,10.0,
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.7,33.0,-2.5
+February,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,40.0,2.0
+August,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,5.4,17.0,-1.0
+December,RUSSIA,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,5.1,7.0,2.0
+August,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,63.0,
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.2,16.0,-3.0
+October,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.7,,
+November,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,,0.0,
+October,PANAMA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,0.0,
+August,HONDURAS,Caribbean Sea,Earthquake and Landslide,Definite Tsunami,7.5,,
+August,VENEZUELA,Caribbean Sea,Earthquake,Probable Tsunami,,,
+August,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+August,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Questionable Tsunami,5.5,,
+June,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Questionable Tsunami,,,
+November,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.2,,
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,6.6,33.0,
+December,TURKEY,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,7.7,35.0,4.0
+June,UKRAINE,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,6.0,27.0,2.0
+October,RUSSIA,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,5.1,,2.0
+May,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.5,33.0,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,49.0,-2.0
+September,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,10.0,-2.5
+September,JAPAN,Japan,Earthquake,Definite Tsunami,5.7,33.0,-2.0
+June,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.3,24.0,-1.5
+February,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.1,21.0,-3.0
+October,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,6.8,20.0,0.5
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,28.0,1.5
+April,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.8,23.0,-2.0
+April,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.2,21.0,-2.0
+September,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.0,10.0,-3.0
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.0,34.0,-3.0
+August,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,13.0,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,29.0,-0.5
+January,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,3.7,,
+December,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Very Doubtful Tsunami,7.6,24.0,0.5
+October,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,23.0,-2.5
+February,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.7,20.0,
+February,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,5.7,39.0,
+February,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.9,10.0,
+February,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,14.0,
+October,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,10.0,
+September,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.1,11.0,
+June,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,5.4,53.0,
+February,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.2,37.0,
+November,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.2,10.0,
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,25.0,
+October,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.3,16.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,5.1,23.0,
+May,USA,Alaska (including Aleutian Islands),Earthquake,Very Doubtful Tsunami,6.4,15.0,
+September,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,48.0,
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.2,44.0,-2.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,10.0,
+June,JAPAN,Japan,Earthquake,Definite Tsunami,5.9,26.0,
+March,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.9,17.0,1.5
+December,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,22.0,-1.0
+February,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,5.4,52.0,
+January,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,
+February,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.0,44.0,-2.0
+February,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,7.5,15.0,
+July,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.4,17.0,-1.0
+June,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,6.9,24.0,
+October,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,7.2,33.0,-3.0
+August,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,5.5,33.0,-0.5
+January,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.0,41.0,-2.5
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.0,15.0,2.0
+March,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.9,4.0,
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.7,43.0,-1.0
+August,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.1,36.0,
+January,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,34.0,1.0
+December,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,5.4,60.0,
+August,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,10.0,
+June,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.6,39.0,
+November,USA,Alaska (including Aleutian Islands),Earthquake,Questionable Tsunami,5.7,21.0,
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Questionable Tsunami,7.0,115.0,0.5
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.6,6.0,-3.0
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,5.5,29.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.3,51.0,-0.5
+May,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.1,30.0,-3.0
+November,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.0,33.0,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,34.0,
+June,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.4,44.0,
+June,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.0,10.0,
+April,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,41.0,-3.0
+August,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,6.5,10.0,0.0
+October,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,10.0,-2.5
+May,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,19.0,
+December,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.8,33.0,
+September,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,5.1,,
+November,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.7,,4.0
+March,HAITI,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+April,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+June,UKRAINE,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,5.7,,2.0
+September,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+April,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.6,,4.0
+September,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,10.0,
+September,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,14.0,
+November,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,33.0,
+May,ALGERIA,Mediterranean Sea,Earthquake,Definite Tsunami,6.8,12.0,1.5
+January,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.5,24.0,0.5
+January,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,33.0,
+October,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,7.6,10.0,2.82
+September,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.5,21.0,
+September,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,13.0,1.08
+March,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.1,33.0,
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.5,31.0,
+January,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,21.0,-4.14
+November,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,8.0,17.0,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.1,10.0,
+June,AUSTRALIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.9,10.0,
+May,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,26.0,
+December,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.8,33.0,0.5
+July,VENEZUELA,Caribbean Sea,Earthquake,Probable Tsunami,7.0,20.0,
+April,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.7,33.0,-2.0
+November,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.7,33.0,-1.0
+June,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,33.0,0.5
+December,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.9,33.0,0.5
+November,EGYPT,Red Sea and Persian Gulf,Earthquake,Definite Tsunami,7.2,10.0,
+September,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,7.4,23.0,-1.0
+August,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.7,30.0,-1.5
+July,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.0,46.0,1.5
+June,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,6.5,14.0,3.0
+May,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,11.0,-2.0
+May,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.7,20.0,-2.0
+April,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,21.0,-1.5
+January,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,22.0,-2.0
+December,JAPAN,Japan,Earthquake,Definite Tsunami,7.8,27.0,
+October,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,14.0,2.6
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.0,20.0,1.5
+January,USA,West Coast of North and Central America,Earthquake,Probable Tsunami,6.7,18.0,-3.0
+August,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,59.0,
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,71.0,-0.5
+February,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,11.0,-0.5
+May,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.3,33.0,
+April,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.2,15.0,0.5
+December,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.3,11.0,
+April,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.5,11.0,
+March,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.0,22.0,
+November,JAPAN,Japan,Earthquake,Probable Tsunami,7.4,29.0,
+October,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.9,19.0,
+June,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake and Landslide,Definite Tsunami,6.5,9.0,
+May,AUSTRALIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.1,10.0,
+July,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,53.0,
+March,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,15.0,
+November,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,10.0,
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,48.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,54.0,
+March,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.6,62.0,
+February,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,55.0,
+October,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,29.0,
+May,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.0,31.0,
+September,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,31.0,
+September,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8.0,28.0,
+July,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,7.3,46.0,
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.2,99.0,
+March,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Definite Tsunami,6.4,13.0,
+March,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.0,33.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,46.0,
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,6.8,33.0,
+November,UK TERRITORY,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.7,10.0,
+October,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.7,15.0,0.2
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.6,29.0,
+August,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.0,2.0,2.0
+March,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,89.0,
+December,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.5,33.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,44.0,
+October,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,28.0,
+May,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,33.0,
+February,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.7,33.0,3.0
+July,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,33.0,
+June,JAPAN,Japan,Earthquake,Definite Tsunami,6.2,15.0,
+November,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,6.9,33.0,
+April,MONTENEGRO,Mediterranean Sea,Earthquake,Definite Tsunami,6.9,10.0,1.0
+March,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,49.0,
+November,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,7.8,18.0,
+June,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.4,3.0,2.0
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,44.0,0.5
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.6,33.0,0.0
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,33.0,0.0
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.8,46.0,-1.5
+January,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,,
+June,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.2,65.0,
+April,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,8.1,33.0,-1.5
+April,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,33.0,-2.0
+February,GUATEMALA,Caribbean Sea,Earthquake,Definite Tsunami,7.5,5.0,
+January,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.0,33.0,
+December,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,33.0,
+July,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,49.0,1.0
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,5.9,33.0,
+December,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,6.2,22.0,
+October,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.1,13.0,1.0
+May,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,2.0,-2.5
+October,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.7,14.0,-1.0
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,50.0,
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,48.0,1.0
+February,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.2,27.0,0.5
+January,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.5,43.0,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,66.0,-1.0
+December,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.4,33.0,
+July,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,7.6,25.0,-2.0
+February,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,56.0,0.5
+January,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.5,33.0,-2.0
+December,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.8,33.0,
+September,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,9.0,1.0
+July,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,48.0,1.5
+July,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.8,58.0,0.0
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,5.3,33.0,0.5
+May,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.9,43.0,
+April,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.3,40.0,1.0
+January,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.6,73.0,
+December,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Definite Tsunami,7.2,7.0,
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.7,51.0,3.0
+August,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.2,30.0,2.0
+February,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,7.8,22.0,
+September,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,7.0,138.0,1.0
+September,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,6.2,107.0,
+August,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,25.0,1.0
+July,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,7.3,60.0,
+June,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,44.0,0.0
+May,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,33.0,-0.5
+December,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.8,83.0,1.0
+July,RUSSIA,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,5.5,,1.0
+August,USA,West Coast of North and Central America,Earthquake and Landslide,Event that only caused a seiche or disturbance in an inland river,7.5,5.0,
+April,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,7.4,35.0,0.0
+September,UKRAINE,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,6.8,17.0,2.0
+August,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.8,60.0,
+September,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Definite Tsunami,7.3,,
+April,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.7,,3.0
+May,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,7.9,,
+October,UKRAINE,Black Sea and Caspian Sea,Earthquake,Very Doubtful Tsunami,5.6,18.0,3.0
+February,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,8.8,,
+January,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,8.4,,
+May,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,6.5,,2.0
+December,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,8.5,,
+August,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,
+October,FRANCE,Mediterranean Sea,Landslide,Definite Tsunami,,,
+November,USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,,2.5
+June,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Event that only caused a seiche or disturbance in an inland river,,,
+September,JAPAN,Japan,Earthquake,Definite Tsunami,8.3,27.0,
+June,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.4,33.0,
+November,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,33.0,
+February,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.5,10.0,1.9
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.9,24.0,1.8
+October,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8.0,33.0,2.5
+May,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Definite Tsunami,6.9,13.0,1.5
+October,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.8,17.0,1.5
+April,COSTA RICA,Caribbean Sea,Earthquake,Definite Tsunami,7.6,10.0,
+August,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,36.0,
+August,BANGLADESH,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,7.2,91.0,
+September,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.7,25.0,-2.0
+November,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake and Landslide,Definite Tsunami,7.7,2.0,3.0
+October,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.6,50.0,-1.5
+July,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,47.0,1.0
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,7.3,8.0,0.5
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.3,36.0,
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.9,5.0,
+November,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.1,32.0,2.1
+May,JAPAN,Japan,Earthquake,Definite Tsunami,7.8,24.0,2.0
+August,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.8,23.0,2.5
+August,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,7.6,13.0,
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,8.2,33.0,1.8
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,18.0,2.5
+July,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,17.0,3.1
+September,NICARAGUA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,40.0,2.8
+December,COLOMBIA,West Coast of South America,Earthquake,Definite Tsunami,7.7,24.0,2.5
+August,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.0,33.0,3.0
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.9,13.0,2.0
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,8.0,33.0,2.5
+December,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,28.0,2.7
+July,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,7.0,25.0,
+December,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,9.1,30.0,
+July,INDONESIA,Indian Ocean (including west coast of Australia),Landslide,Definite Tsunami,,,
+March,USA,West Coast of North and Central America,Earthquake,Questionable Tsunami,,,
+January,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,28.0,
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.7,19.0,
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.6,30.0,
+June,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.2,10.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,36.0,
+April,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,19.0,
+May,ATLANTIC OCEAN,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,7.7,33.0,
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.6,33.0,-3.0
+April,ITALY,Mediterranean Sea,Landslide,Definite Tsunami,,,
+March,ANTARCTICA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,8.1,10.0,
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,7.7,33.0,
+January,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.1,46.0,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,11.0,
+May,USA,Alaska (including Aleutian Islands),Landslide,Probable Tsunami,,,
+January,VENEZUELA,Caribbean Sea,Earthquake,Definite Tsunami,,,
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.6,26.0,
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.1,17.0,
+November,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Definite Tsunami,6.3,14.0,
+July,MONTSERRAT,Caribbean Sea,Volcano,Definite Tsunami,,,
+December,USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Very Doubtful Tsunami,,,
+April,JAPAN,Japan,Earthquake,Questionable Tsunami,7.0,,
+February,CUBA,Caribbean Sea,Earthquake,Definite Tsunami,,,
+May,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.0,55.0,
+May,MOROCCO,Mediterranean Sea,Earthquake,Questionable Tsunami,,,5.0
+February,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,6.9,13.0,4.0
+June,ICELAND,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,,,
+February,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,,,2.0
+June,CANADA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Probable Tsunami,,,
+September,CANADA,"East Coast USA and Canada, St Pierre and Miquelon",Landslide,Probable Tsunami,,,
+August,USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,,,
+December,CANADA,"East Coast USA and Canada, St Pierre and Miquelon",Explosion,Definite Tsunami,,,
+July,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.7,34.0,
+February,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,7.0,,4.0
+,USA,Alaska (including Aleutian Islands),Volcano,Questionable Tsunami,,,
+May,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Volcano and Landslide,Definite Tsunami,,,
+May,SAINT VINCENT AND THE GRENADINES,Caribbean Sea,Volcano,Definite Tsunami,,,
+April,CANADA,West Coast of North and Central America,Landslide,Definite Tsunami,,,
+December,ITALY,Mediterranean Sea,Volcano and Landslide,Definite Tsunami,,,5.0
+January,MONTSERRAT,Caribbean Sea,Volcano,Definite Tsunami,,,
+May,MONTSERRAT,Caribbean Sea,Volcano,Definite Tsunami,,,
+,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,,,
+November,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,10.0,
+December,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.1,10.0,
+November,CANADA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.6,10.0,
+February,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,,
+September,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,28.0,
+February,JAMAICA,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+April,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,5.5,38.0,
+January,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.2,,
+May,GREECE,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,5.6,33.0,1.0
+April,MONTENEGRO,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,5.3,10.0,
+February,COLOMBIA,West Coast of South America,Earthquake,Probable Tsunami,,,
+December,AUSTRALIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.1,10.0,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,39.0,
+November,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,10.0,
+August,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Definite Tsunami,7.2,28.0,
+October,ALGERIA,Mediterranean Sea,Earthquake,Questionable Tsunami,5.9,,
+October,ALGERIA,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,7.7,10.0,2.0
+April,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,
+September,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,,
+March,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.7,30.0,
+November,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Very Doubtful Tsunami,,,
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Questionable Tsunami,,,
+February,JAPAN,Japan,Earthquake,Definite Tsunami,7.9,,
+October,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,,
+March,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.3,18.0,
+January,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.1,10.0,
+May,USA,West Coast of North and Central America,Volcano,Event that only caused a seiche or disturbance in an inland river,,,
+March,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,34.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,8.0,
+September,JAPAN,Japan,Earthquake,Definite Tsunami,6.2,10.0,
+December,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,23.0,0.0
+October,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Definite Tsunami,6.7,39.0,
+June,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+November,USA,West Coast of North and Central America,Landslide,Probable Tsunami,,,
+April,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,8.1,10.0,
+,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.2,,3.0
+June,ITALY,Mediterranean Sea,Volcano,Questionable Tsunami,,,3.0
+January,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.3,,4.0
+February,ITALY,Mediterranean Sea,Volcano,Probable Tsunami,,,
+January,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+July,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,6.6,,2.0
+March,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,4.0
+January,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,4.0
+May,ITALY,Mediterranean Sea,Volcano,Questionable Tsunami,,,3.0
+April,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.2,,4.0
+May,ITALY,Mediterranean Sea,Volcano,Very Doubtful Tsunami,,,2.0
+October,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,,,4.0
+June,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.0,,5.0
+,GREECE,Mediterranean Sea,Volcano,Probable Tsunami,,,
+August,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,6.6,,3.0
+,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+October,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,7.0,,4.0
+,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,5.0
+January,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,,,3.0
+December,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+January,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,7.4,,4.0
+February,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,6.0,,3.0
+July,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+January,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,3.0
+September,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+January,CROATIA,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+April,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,5.7,,2.0
+July,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,5.2,,3.0
+July,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,3.2,,3.0
+July,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.1,,4.0
+January,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,5.0,,5.0
+April,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.2,,3.0
+June,ITALY,Mediterranean Sea,Volcano and Earthquake,Questionable Tsunami,,,3.0
+,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.2,,2.0
+,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,6.0
+December,ITALY,Mediterranean Sea,Volcano and Earthquake,Probable Tsunami,,,5.0
+November,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+November,ALGERIA,Mediterranean Sea,Earthquake,Probable Tsunami,,,2.0
+August,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,2.0
+February,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.9,,
+August,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.7,21.0,
+August,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.2,5.0,
+February,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,6.1,25.0,
+April,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,10.0,
+January,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,4.1,,3.0
+January,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,4.1,,5.0
+July,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.2,,2.0
+May,RUSSIA,Black Sea and Caspian Sea,Earthquake,Probable Tsunami,6.5,44.0,
+May,MYANMAR (BURMA),Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.3,,
+February,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,5.6,,3.0
+October,ALGERIA,Mediterranean Sea,Earthquake,Probable Tsunami,,,4.0
+March,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,6.9,18.0,
+March,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,5.9,,3.0
+August,ITALY,Mediterranean Sea,Volcano and Earthquake,Probable Tsunami,,,4.0
+December,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,4.0
+September,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,4.0
+July,FRANCE,Mediterranean Sea,Earthquake,Definite Tsunami,5.8,,4.0
+August,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,5.6,,4.0
+March,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+July,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,6.7,,5.0
+September,GREECE,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,7.2,,3.0
+March,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.0,,5.0
+April,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.6,,3.0
+February,ITALY,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.7,,3.0
+September,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.8,,3.0
+December,CROATIA,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+February,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+April,CHILE,West Coast of South America,Earthquake and Landslide,Definite Tsunami,6.2,,
+January,ALGERIA,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+August,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.0,39.0,
+October,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,7.5,,5.0
+,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+February,ITALY,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,5.9,6.0,
+December,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.9,,3.0
+August,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.1,,3.0
+August,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,6.1,5.0,3.0
+November,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.0,5.0,
+October,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.3,21.0,
+July,VENEZUELA,Caribbean Sea,Earthquake,Definite Tsunami,6.5,10.0,
+September,TURKEY,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,6.6,38.0,
+March,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.5,33.0,
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.4,34.0,
+September,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,10.0,
+November,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.7,40.0,
+March,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.0,29.0,
+August,MYANMAR (BURMA),Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+January,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,,,
+July,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,1.0
+March,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+March,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,5.0
+April,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+October,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+August,CROATIA,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+September,FRENCH POLYNESIA,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Definite Tsunami,,,
+August,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,,,4.0
+April,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,,,4.0
+January,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+June,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+March,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+December,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+April,SWEDEN,Northeast Atlantic Ocean,Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+December,CANADA,West Coast of North and Central America,Landslide,Definite Tsunami,,,
+May,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+August,ALGERIA,Mediterranean Sea,Earthquake,Probable Tsunami,,,4.0
+July,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,4.1,,2.0
+,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+March,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+February,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,,,3.0
+May,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.2,,
+July,CROATIA,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+January,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,,,2.0
+February,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+December,GREECE,Mediterranean Sea,Landslide,Questionable Tsunami,,,3.0
+October,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,7.5,,4.0
+September,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.2,,
+August,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,6.8,,3.0
+February,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.5,,
+December,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+January,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.3,,
+February,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.4,,2.0
+April,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+May,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+June,GREECE,Mediterranean Sea,Earthquake and Landslide,Probable Tsunami,5.5,,
+January,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.8,,
+August,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,5.6,,
+March,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,,,3.0
+August,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.2,,
+March,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,,,4.0
+June,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.0,,
+September,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.1,,
+November,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+November,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+February,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,7.4,,
+November,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+October,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,4.0
+February,ITALY,Mediterranean Sea,Volcano,Definite Tsunami,,,4.0
+January,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.6,,
+,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,,
+April,ITALY,Mediterranean Sea,Volcano,Questionable Tsunami,,,3.0
+December,FRANCE,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+,ALBANIA,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.8,,
+,ITALY,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,4.0
+March,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,6.9,,3.0
+,TUNISIA,Mediterranean Sea,Earthquake,Questionable Tsunami,,,3.0
+October,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+September,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,6.4,,
+April,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,
+May,ALGERIA,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+August,ALGERIA,Mediterranean Sea,Earthquake,Probable Tsunami,,,4.0
+September,ITALY,Mediterranean Sea,Volcano and Earthquake,Questionable Tsunami,,,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,10.0,
+June,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.6,,
+April,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,35.0,
+,GREECE,Mediterranean Sea,Volcano,Very Doubtful Tsunami,,,
+October,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+January,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,2.0
+May,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,2.0
+October,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,2.0
+November,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,,3.0
+February,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,15.0,
+January,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,15.0,2.0
+April,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,5.0,,3.0
+January,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,5.1,15.0,3.0
+March,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,2.0
+July,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.8,,
+May,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,4.5,,
+February,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.5,25.0,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.1,10.0,
+November,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.8,34.0,
+April,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.2,,
+September,ALGERIA,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,6.7,,
+September,CYPRUS,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,,
+August,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.2,,
+August,NICARAGUA,West Coast of North and Central America,Earthquake and Landslide,Very Doubtful Tsunami,6.0,100.0,
+August,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,5.3,100.0,3.0
+February,ALBANIA,Mediterranean Sea,Earthquake,Probable Tsunami,6.7,,
+October,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.9,,3.0
+September,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,7.1,15.0,4.0
+November,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+January,ALGERIA,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+April,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,,2.0
+August,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,7.0,,4.0
+March,ITALY,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+July,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,,,5.0
+,SOUTH KOREA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.3,,
+November,GREENLAND,Northwest Atlantic Ocean,Landslide,Definite Tsunami,,,
+April,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Volcano,Very Doubtful Tsunami,,,
+August,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.5,,
+April,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.5,,
+January,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,4.8,,
+February,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.2,,
+September,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.8,10.0,
+December,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.3,,
+December,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.0,,
+January,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.5,,
+,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,4.8,,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,22.0,
+March,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.5,,
+December,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,,,
+June,FRANCE,Mediterranean Sea,Questionable Earthquake,Questionable Tsunami,,,
+August,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,,,
+December,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,7.8,17.0,
+November,GHANA,West Coast of Africa,Earthquake,Probable Tsunami,5.0,,
+July,TURKMENISTAN,Black Sea and Caspian Sea,Earthquake,Questionable Tsunami,8.2,30.0,
+July,IRAN,Black Sea and Caspian Sea,Earthquake,Probable Tsunami,7.2,10.0,
+June,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,7.5,,
+July,GHANA,West Coast of Africa,Earthquake,Questionable Tsunami,6.5,,
+September,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,8.0,,
+August,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.0,,
+April,IRAN,Black Sea and Caspian Sea,Earthquake,Probable Tsunami,7.6,,
+December,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,8.0,,
+December,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+,SYRIA,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+April,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,
+January,NORWAY,Northeast Atlantic Ocean,Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+September,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,
+April,IRAN,Red Sea and Persian Gulf,Earthquake,Questionable Tsunami,6.5,,
+,CONGO,West Coast of Africa,Earthquake,Questionable Tsunami,6.2,,
+,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,,,
+October,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Probable Tsunami,,,
+November,KENYA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,,,
+January,CONGO,Central Africa,Volcano,Event that only caused a seiche or disturbance in an inland river,,,
+July,EGYPT,Red Sea and Persian Gulf,Earthquake,Probable Tsunami,5.9,,
+April,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,6.4,32.0,
+March,EGYPT,Red Sea and Persian Gulf,Earthquake,Probable Tsunami,7.0,,
+May,ALGERIA,Mediterranean Sea,Earthquake,Definite Tsunami,5.7,8.0,
+February,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,
+July,ERITREA,Red Sea and Persian Gulf,Earthquake,Definite Tsunami,6.2,,
+December,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.0,10.0,
+January,SUDAN,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+February,GREECE,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+February,SPAIN,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+September,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,35.0,
+December,KERMADEC ISLANDS,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,153.0,
+September,JAPAN,Japan,Earthquake,Definite Tsunami,6.8,25.0,
+May,TOGO,West Coast of Africa,Earthquake,Probable Tsunami,,,
+May,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,7.9,19.0,
+August,USA,Alaska (including Aleutian Islands),Volcano,Definite Tsunami,,,
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.3,30.0,
+August,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.0,,6.0
+May,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.2,,
+February,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.2,,
+August,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.9,,2.0
+January,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,8.2,30.0,
+July,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,
+November,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.7,,
+January,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,6.0,,2.0
+October,BULGARIA,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+May,PERU,West Coast of South America,Earthquake,Questionable Tsunami,8.0,,
+November,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+October,GEORGIA,Black Sea and Caspian Sea,Earthquake,Very Doubtful Tsunami,7.5,60.0,
+November,ATLANTIC OCEAN,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,8.3,,2.0
+March,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.0,70.0,3.0
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,17.0,
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.3,23.0,
+February,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.6,,
+January,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.4,36.0,
+February,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.2,22.0,
+,ALBANIA,Mediterranean Sea,Earthquake,Questionable Tsunami,6.6,,3.0
+,GEORGIA,Black Sea and Caspian Sea,Earthquake,Very Doubtful Tsunami,5.5,,
+March,BULGARIA,Black Sea and Caspian Sea,Earthquake,Very Doubtful Tsunami,7.2,,
+,BULGARIA,Black Sea and Caspian Sea,Earthquake,Questionable Tsunami,,,
+,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,
+April,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,4.6,7.0,2.0
+March,ITALY,Mediterranean Sea,Landslide,Definite Tsunami,,,
+September,SPAIN,Mediterranean Sea,Earthquake,Probable Tsunami,,,
+,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,6.0
+May,BULGARIA,Black Sea and Caspian Sea,Landslide,Questionable Tsunami,,,
+March,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,4.0
+January,NORWAY,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,5.1,,
+May,UKRAINE,Black Sea and Caspian Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.5,,
+November,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+May,NORWAY,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,,,3.0
+December,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,,,
+May,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,4.0
+August,ITALY,Mediterranean Sea,Volcano,Definite Tsunami,,,4.0
+February,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,6.0
+May,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,3.0
+April,NORWAY,Northeast Atlantic Ocean,Landslide,Probable Tsunami,,,3.0
+October,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,3.0
+January,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,6.0
+December,UKRAINE,Black Sea and Caspian Sea,Earthquake,Very Doubtful Tsunami,,,
+October,NORWAY,Northeast Atlantic Ocean,Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+August,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,2.0
+August,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,4.0
+March,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,2.0
+October,SPAIN,Mediterranean Sea,Earthquake,Definite Tsunami,,,3.0
+June,SPAIN,Northeast Atlantic Ocean,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+January,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,2.0
+May,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,3.0
+February,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,2.0
+April,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,4.0
+January,SPAIN,Mediterranean Sea,Earthquake,Definite Tsunami,,,2.0
+June,UK,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,6.0,70.0,
+June,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+October,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.9,,4.0
+May,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,6.5,16.0,1.0
+January,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,6.9,13.0,1.0
+March,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,34.0,
+August,SPAIN,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,4.4,30.0,1.0
+,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,6.7,,
+,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+January,TURKEY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,7.0,,
+September,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,6.1,,3.0
+May,UK TERRITORY,Southeast Atlantic Ocean,Earthquake,Questionable Tsunami,,,
+April,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,3.0
+September,ITALY,Mediterranean Sea,Volcano,Definite Tsunami,,,3.0
+December,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,7.5,,
+October,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,45.0,
+May,HONDURAS,Caribbean Sea,Earthquake,Definite Tsunami,7.3,10.0,
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,81.0,
+August,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.7,20.0,
+August,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.5,5.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,40.0,
+July,ISRAEL,Mediterranean Sea,Earthquake,Questionable Tsunami,6.3,,
+July,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,12.0,
+September,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.1,18.0,
+March,COOK ISLANDS,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,
+January,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,26.0,
+January,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,25.0,
+February,JORDAN,Mediterranean Sea,Earthquake,Definite Tsunami,5.3,27.0,
+January,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,15.0,
+,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,,,
+January,HAITI,Caribbean Sea,Earthquake and Landslide,Definite Tsunami,7.0,13.0,
+February,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.8,23.0,
+May,HAITI,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,31.0,
+August,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Very Doubtful Tsunami,,,
+March,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,11.0,
+February,JAPAN,Japan,Earthquake,Probable Tsunami,7.0,25.0,
+April,PERU,West Coast of South America,Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+November,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,,,
+May,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Definite Tsunami,,,
+November,AUSTRALIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,
+November,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,,,
+September,GUATEMALA,West Coast of North and Central America,Questionable Earthquake,Very Doubtful Tsunami,,,
+August,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,
+February,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Probable Tsunami,5.8,12.0,
+January,AUSTRALIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,
+November,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.2,90.0,
+January,GUATEMALA,West Coast of North and Central America,Questionable Earthquake,Very Doubtful Tsunami,6.3,,
+April,GUATEMALA,West Coast of North and Central America,Earthquake,Event that only caused a seiche or disturbance in an inland river,7.5,33.0,
+June,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,35.0,
+December,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,,,
+October,NICARAGUA,West Coast of North and Central America,Earthquake,Probable Tsunami,7.0,,
+June,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,8.7,,
+December,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.8,33.0,
+November,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,
+July,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,,,
+August,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,25.0,
+May,BANGLADESH,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,,,
+August,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,10.0,
+,SPAIN,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,,,
+June,URUGUAY,Southwest Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,
+October,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,20.0,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,14.0,
+January,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,
+December,ITALY,Mediterranean Sea,Earthquake,Probable Tsunami,6.6,,
+December,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,16.0,
+February,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Questionable Tsunami,6.1,6.0,
+February,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.8,28.0,
+August,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.8,,0.0
+February,MEXICO,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,32.0,
+March,PERU,West Coast of South America,Earthquake,Questionable Tsunami,8.4,30.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,9.1,30.0,
+,JAPAN,Japan,Earthquake,Probable Tsunami,,,2.0
+March,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.4,29.0,
+October,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,,,
+June,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,7.6,,
+January,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.5,24.0,
+May,JAPAN,Japan,Earthquake,Probable Tsunami,6.6,,-3.0
+July,JAPAN,Japan,Earthquake,Definite Tsunami,7.0,23.0,
+June,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.3,52.0,
+December,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,7.0,,
+August,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,6.3,16.0,
+May,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,6.5,16.0,
+July,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,17.0,
+February,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,6.9,,
+November,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,7.6,,
+June,UK,Northeast Atlantic Ocean,Meteorological,Questionable Tsunami,,,
+August,NORWAY,Northeast Atlantic Ocean,Landslide,Probable Tsunami,,,
+April,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,42.0,
+July,NORWAY,Northeast Atlantic Ocean,Landslide,Probable Tsunami,,,
+August,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,28.0,
+August,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,32.0,
+September,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.8,32.0,
+November,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Very Doubtful Tsunami,7.4,156.0,
+February,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.6,26.0,
+October,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,33.0,
+March,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.4,20.0,
+March,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,12.0,
+January,EL SALVADOR,West Coast of North and Central America,Earthquake,Probable Tsunami,7.7,60.0,
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.6,20.0,
+April,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.2,25.0,
+April,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.3,11.0,
+January,JAPAN,Japan,Earthquake,Probable Tsunami,,,
+February,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,23.0,
+September,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,8.6,33.0,1.0
+January,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.5,150.0,0.5
+October,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,8.1,33.0,1.5
+January,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0.0
+August,EL SALVADOR,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,28.0,
+August,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.6,28.0,
+September,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,35.0,
+June,NICARAGUA,West Coast of North and Central America,Earthquake,Probable Tsunami,6.6,20.0,
+July,GREENLAND,Northwest Atlantic Ocean,Landslide,Definite Tsunami,,,
+November,GUATEMALA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,24.0,
+December,CHINA,"China, North and South Korea, Philippines, Taiwan",Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+December,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,31.0,
+October,CANADA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,14.0,
+February,CHILE,West Coast of South America,Volcano and Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+January,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.5,10.0,
+,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Probable Tsunami,,,
+February,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,21.0,
+October,JAPAN,Japan,Earthquake,Questionable Tsunami,,,1.0
+February,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,24.0,
+April,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,7.2,110.0,
+February,ITALY,Mediterranean Sea,Volcano,Very Doubtful Tsunami,,,
+,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Questionable Tsunami,,,
+,PERU,West Coast of South America,Earthquake,Questionable Tsunami,8.7,,3.0
+August,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.5,,
+,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,,,2.0
+July,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.5,17.0,
+October,COLOMBIA,West Coast of South America,Earthquake,Questionable Tsunami,,,
+August,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,6.5,,0.0
+January,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,
+September,JAPAN,Japan,Meteorological,Questionable Tsunami,,,0.0
+September,MEXICO,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,,,
+May,JAPAN,Japan,Earthquake,Probable Tsunami,,,1.5
+October,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,7.0,,0.0
+September,JAPAN,Japan,Earthquake,Questionable Tsunami,,,2.0
+November,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.1,10.0,
+August,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.5,10.0,
+September,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Definite Tsunami,,47.0,
+February,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Questionable Tsunami,5.5,25.0,
+October,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,12.0,
+September,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,7.0,12.0,
+August,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Definite Tsunami,6.0,12.0,
+June,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,6.6,20.0,
+October,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,10.0,
+July,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+October,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Definite Tsunami,,,
+February,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,,,
+May,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Definite Tsunami,,,
+April,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,
+November,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+June,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,,,
+November,ANTARCTICA,Southwest Atlantic Ocean,Earthquake,Definite Tsunami,7.7,10.0,
+March,PERU,West Coast of South America,Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+October,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Definite Tsunami,,,
+March,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.3,,
+December,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Definite Tsunami,,,
+August,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Questionable Earthquake,Very Doubtful Tsunami,,,
+,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,,,
+March,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.7,21.0,
+April,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,43.0,
+August,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,,,
+September,SWITZERLAND,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.2,,
+October,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,,,1.5
+April,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,39.0,
+April,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.2,24.0,
+March,JAPAN,Japan,Volcano,Definite Tsunami,,,-1.0
+April,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.7,22.0,
+April,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,23.0,
+April,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.2,25.0,
+June,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,109.0,
+June,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,20.0,
+October,CANADA,West Coast of North and Central America,Landslide,Definite Tsunami,,,
+October,ITALY,Mediterranean Sea,Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+December,PANAMA,Caribbean Sea,Earthquake,Questionable Tsunami,7.2,,
+July,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,20.0,
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.5,11.0,
+July,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.1,10.0,
+October,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.0,16.0,
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.1,45.0,
+February,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,23.0,
+March,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,41.0,
+April,PANAMA,West Coast of North and Central America,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+February,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.4,10.0,
+May,JAPAN,Japan,Earthquake,Probable Tsunami,5.7,10.0,
+May,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,55.0,
+,TRINIDAD AND TOBAGO,Caribbean Sea,Earthquake,Probable Tsunami,,,
+July,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,12.0,
+July,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,11.0,
+January,COSTA RICA,West Coast of North and Central America,Earthquake,Questionable Tsunami,6.8,,
+July,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.9,23.0,
+September,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.3,22.0,
+October,USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,12.0,
+November,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,6.5,11.0,
+November,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,33.0,
+March,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,24.0,
+April,ECUADOR,West Coast of South America,Earthquake,Definite Tsunami,7.8,17.0,
+March,WALLIS AND FUTUNA (FRENCH TERRITORY),"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,6.4,10.0,
+April,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.5,,
+April,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.0,24.0,
+August,UK TERRITORY,Southwest Atlantic Ocean,Earthquake,Probable Tsunami,7.4,10.0,
+August,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,16.0,
+October,EL SALVADOR,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,40.0,
+October,CANADA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.1,20.0,
+November,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,15.0,
+August,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Probable Tsunami,,,
+September,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.0,19.0,
+August,USA,Alaska (including Aleutian Islands),Landslide,Probable Tsunami,,,
+February,JAMAICA,Caribbean Sea,Earthquake,Questionable Tsunami,,,
+December,DOMINICAN REPUBLIC,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+March,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Probable Tsunami,,,
+November,NICARAGUA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.9,33.0,
+December,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,95.0,
+December,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.8,40.0,
+May,CHILE,West Coast of South America,Earthquake,Definite Tsunami,,,
+August,VENEZUELA,Caribbean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+March,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,,
+January,CROATIA,Mediterranean Sea,Earthquake,Probable Tsunami,6.1,33.0,
+December,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.9,20.0,
+July,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Definite Tsunami,,,
+November,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,9.0,
+,MONTSERRAT,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,
+October,USA,Alaska (including Aleutian Islands),Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+September,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.8,20.0,
+January,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,135.0,
+December,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.6,30.0,
+January,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,12.0,
+March,IRAN,Red Sea and Persian Gulf,Meteorological,Definite Tsunami,,,
+April,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.9,26.0,
+May,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.2,1.0,
+April,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,28.0,
+March,COSTA RICA,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,,,
+June,GREENLAND,Northwest Atlantic Ocean,Landslide,Definite Tsunami,,0.0,
+July,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.7,10.0,
+July,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,6.6,7.0,
+September,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.7,60.0,
+July,COLOMBIA,Caribbean Sea,Landslide,Definite Tsunami,,,
+June,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.3,12.0,
+October,CANADA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake and Landslide,Questionable Tsunami,,,
+December,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Probable Tsunami,4.9,33.0,
+May,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.0,,
+November,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,22.0,
+December,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.8,60.0,
+October,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,24.0,
+May,NICARAGUA,West Coast of North and Central America,Earthquake,Event that only caused a seiche or disturbance in an inland river,7.4,,
+September,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8.2,46.0,
+April,CANADA,"East Coast USA and Canada, St Pierre and Miquelon",Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+,USA,West Coast of North and Central America,Landslide,Probable Tsunami,,,
+January,HONDURAS,Caribbean Sea,Earthquake,Definite Tsunami,7.5,10.0,
+January,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,25.0,
+November,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.0,10.0,
+July,PANAMA,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,6.7,22.0,
+October,PANAMA,West Coast of North and Central America,Earthquake and Landslide,Questionable Tsunami,6.7,,
+February,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,
+May,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,
+January,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.1,36.0,
+March,SWITZERLAND,Northeast Atlantic Ocean,Earthquake and Landslide,Questionable Tsunami,5.9,,
+May,USA,"Hawaii, Johnston Atoll, Midway I",Volcano and Earthquake,Definite Tsunami,6.9,5.0,
+September,VIETNAM,"China, North and South Korea, Philippines, Taiwan",Questionable Earthquake,Very Doubtful Tsunami,,,
+July,VIETNAM,"China, North and South Korea, Philippines, Taiwan",Questionable Earthquake,Questionable Tsunami,,,
+August,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.9,31.0,
+,RUSSIA,Black Sea and Caspian Sea,Landslide,Probable Tsunami,,,
+June,UKRAINE,Black Sea and Caspian Sea,Landslide,Definite Tsunami,,,
+,RUSSIA,Black Sea and Caspian Sea,Landslide,Probable Tsunami,,,
+October,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.8,14.0,
+August,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.2,563.0,
+August,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,7.3,154.0,
+August,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,27.0,
+September,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake and Landslide,Definite Tsunami,7.5,10.0,
+December,NEW CALEDONIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.5,10.0,
+July,GRENADA,Caribbean Sea,Volcano,Questionable Tsunami,,,
+October,GRENADA,Caribbean Sea,Volcano,Very Doubtful Tsunami,,,
+December,INDONESIA,Indian Ocean (including west coast of Australia),Volcano and Landslide,Definite Tsunami,,,
+June,IRAN,Black Sea and Caspian Sea,Earthquake and Landslide,Probable Tsunami,7.3,19.0,
+November,CHINA,"China, North and South Korea, Philippines, Taiwan",Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+August,MEXICO,West Coast of North and Central America,Earthquake and Landslide,Definite Tsunami,7.4,,
+June,CHINA,"China, North and South Korea, Philippines, Taiwan",Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+March,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,16.0,
+June,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,12.0,
+July,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.4,19.0,
+May,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.6,10.0,
+June,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.4,11.0,
+June,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.2,34.0,
+August,ITALY,Mediterranean Sea,Volcano,Probable Tsunami,,,
+May,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,11.0,
+November,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,13.0,
+November,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.3,14.0,
+November,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,13.0,
+October,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.5,17.0,
+December,RUSSIA,Kamchatka and Kuril Islands,Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+,VIETNAM,"China, North and South Korea, Philippines, Taiwan",Volcano and Earthquake,Questionable Tsunami,6.1,,
+June,SPAIN,Mediterranean Sea,Meteorological,Definite Tsunami,,,
+November,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.1,33.0,
+September,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.0,46.0,
+January,USA TERRITORY,Caribbean Sea,Earthquake,Definite Tsunami,6.4,10.0,
+October,USA,,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+August,BANGLADESH,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,6.6,57.0,
+,GREENLAND,Northwest Atlantic Ocean,Landslide,Probable Tsunami,,,
+July,ICELAND,Northeast Atlantic Ocean,Landslide,Event that only caused a seiche or disturbance in an inland river,,,
+January,CUBA,Caribbean Sea,Earthquake,Definite Tsunami,7.7,10.0,
+August,JAPAN,Japan,Earthquake,Definite Tsunami,6.0,10.0,
+May,JAPAN,Japan,Earthquake,Definite Tsunami,6.2,33.0,
+March,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,57.0,
+June,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.0,,
+November,GREECE,Mediterranean Sea,Earthquake and Landslide,Probable Tsunami,7.2,15.0,
+May,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.6,17.0,
+May,INDONESIA,Indian Ocean (including west coast of Australia),Volcano and Earthquake,Event that only caused a seiche or disturbance in an inland river,,,
+July,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,28.0,
+June,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,10.0,
+April,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,6.0,30.0,
+June,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,
+June,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.4,26.0,

@@ -12,16 +12,23 @@
 {% block content %}
 
 
-Go to <a class="btn btn-primary" href="/">Home</a>
-<div class="row">
-    <div class="alert alert-primary" role="alert">
-        {{ context['message']}}
-      </div>
-  
+<a class="btn btn-primary" href="/"> Home </a>
+
+
+<div class="col-md-12 col-sm-24 col-xs-12 col- lg-12">
+  <div class="card">
+
+      <div class="card-body">
+        <div class="alert alert-primary" role="alert">
+          {{ context['message']}}
+        </div>
+
         {{ context['experiment']|safe }}
 
+          
 
-   
+      </div>
+  </div>
 </div>
 
         
