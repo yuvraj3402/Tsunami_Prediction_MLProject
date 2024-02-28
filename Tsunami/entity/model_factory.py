@@ -196,7 +196,7 @@ class ModelFactory:
 
 
             if not best_model:
-                raise Exception(f"None of Model has base accuracy: {base_accuracy}")
+                raise Exception(f"None of the Model has base accuracy: {base_accuracy}")
             logging.info(f"Best model: {best_model}")
             return best_model
         except Exception as e:

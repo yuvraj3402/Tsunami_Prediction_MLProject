@@ -197,6 +197,9 @@ class configuration:
             pipeline_name=pipeline_info[PIPELINE_NAME_KEY]
             artifact_dir_name=pipeline_info[ARTIFACT_DIR_KEY]
             artifact_dir=os.path.join(ROOT_DIR,pipeline_name,artifact_dir_name)
+
+
+            
             training_pipeline_config=TrainingPipelineConfig(artifact_dir=artifact_dir)
 
             return training_pipeline_config

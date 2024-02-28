@@ -236,4 +236,4 @@ def render_log_dir(req_path):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
