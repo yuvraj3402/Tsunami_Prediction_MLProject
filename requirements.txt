@@ -7,3 +7,4 @@ pyYAML
 scikit-learn
 dill
 matplotlib
+-e .
