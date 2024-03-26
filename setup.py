@@ -3,7 +3,7 @@ from typing import List
 
 #Declaring variables for setup functions
 PROJECT_NAME="tsunami_prediction"
-VERSION="0.0.1"
+VERSION="0.0.2"
 AUTHOR="yuvraj singh"
 DESCRIPTION="This project helps predict tsunami occurences"
 REQUIREMENT_FILE_NAME="requirements.txt"
