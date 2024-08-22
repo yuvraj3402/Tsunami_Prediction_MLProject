@@ -27,8 +27,7 @@ scikit-learn==1.5.1
 scipy==1.13.1
 six==1.16.0
 threadpoolctl==3.5.0
+-e git+https://github.com/yuvraj3402/Tsunami_Prediction_MLProject.git@caf7d0d6ff0f1616fa0b0b0b55d1c65cf5fe7dae#egg=tsunami_prediction
 tzdata==2024.1
 Werkzeug==3.0.4
 zipp==3.20.0
-
-
