@@ -1,0 +1,5 @@
+best_model:
+  model_path: D:\Desktop\Tsunami\Tsunami_Prediction_MLProject\tsunami\artifact\model_trainer\2024-08-23-18-15-38\trained_model\model.pkl
+history:
+  2024-08-23-18-15-38:
+    model_path: D:\Desktop\Tsunami\Tsunami_Prediction_MLProject\tsunami\artifact\model_trainer\2024-08-22-22-53-01\trained_model\model.pkl
